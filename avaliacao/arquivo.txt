@@ -1,0 +1,960 @@
+Avaliador = Marilyn Aparecida Errobidarte de Matos
+Projeto = JOGO DIDÁTICO PARA AUXÍLIO NO APRENDIZADO DE BIOLOGIA
+n1=6	n2=6	n3=7	n4=7	n5=7	n6=7.5	n7=0	n8=0	
+
+Avaliador = Márlon Pereira
+Projeto = JOGO DIDÁTICO PARA AUXÍLIO NO APRENDIZADO DE BIOLOGIA
+n1=9	n2=8	n3=8	n4=8	n5=9	n6=0	n7=0	n8=0	
+
+Avaliador = Taís Helena de Araujo Rodrigues
+Projeto = JOGO DIDÁTICO PARA AUXÍLIO NO APRENDIZADO DE BIOLOGIA
+n1=10	n2=10	n3=10	n4=9	n5=10	n6=8	n7=0	n8=0	
+
+Avaliador = Savio Vinicius Albieri Barone Cantero
+Projeto = PLATAFORMA EDU NUVEM E A CIRDI PROMOVENDO INTEGRAÇÃO TECNOLÓGICA EM TEMPOS DE PANDEMIA
+n1=7.5	n2=8	n3=8	n4=7.5	n5=8	n6=0	n7=9	n8=0	
+
+Avaliador = Midiane Scarabeli Alves Coelho da Silva
+Projeto = PLATAFORMA EDU NUVEM E A CIRDI PROMOVENDO INTEGRAÇÃO TECNOLÓGICA EM TEMPOS DE PANDEMIA
+n1=8	n2=8	n3=7.5	n4=6	n5=7	n6=0	n7=9	n8=0	
+
+Avaliador = Tatiana Kleinübing
+Projeto = PLATAFORMA EDU NUVEM E A CIRDI PROMOVENDO INTEGRAÇÃO TECNOLÓGICA EM TEMPOS DE PANDEMIA
+n1=9	n2=9	n3=9	n4=8	n5=9	n6=10	n7=10	n8=0	
+
+Avaliador = Rosemary Sanches Ramires 
+Projeto = ARTETERAPIA: UM REFÚGIO PARA ADOLESCENTES COM TRANSTORNO DE ANSIEDADE GENERALIZADA
+n1=10	n2=8	n3=8	n4=8	n5=7.5	n6=8	n7=0	n8=0	
+
+Avaliador = Katiane Rodrigues Vila Maior Flores
+Projeto = ARTETERAPIA: UM REFÚGIO PARA ADOLESCENTES COM TRANSTORNO DE ANSIEDADE GENERALIZADA
+n1=10	n2=10	n3=10	n4=8	n5=10	n6=0	n7=0	n8=0	
+
+Avaliador = Almir José Weinfortner
+Projeto = ARTETERAPIA: UM REFÚGIO PARA ADOLESCENTES COM TRANSTORNO DE ANSIEDADE GENERALIZADA
+n1=10	n2=10	n3=10	n4=10	n5=10	n6=10	n7=0	n8=0	
+
+Avaliador = Thaynara Dedé Andrade Brito
+Projeto = ATAQUES CIBERNÉTICOS – UM COMPARATIVO DOS ÚLTIMOS 10 ANOS
+n1=8	n2=7.5	n3=8	n4=7.5	n5=7.5	n6=8	n7=0	n8=0	
+
+Avaliador = Joelson Fernandes
+Projeto = ATAQUES CIBERNÉTICOS – UM COMPARATIVO DOS ÚLTIMOS 10 ANOS
+n1=8	n2=8	n3=8	n4=10	n5=10	n6=8	n7=0	n8=0	
+
+Avaliador = Robson Soares Silva
+Projeto = ATAQUES CIBERNÉTICOS – UM COMPARATIVO DOS ÚLTIMOS 10 ANOS
+n1=10	n2=10	n3=10	n4=10	n5=10	n6=10	n7=0	n8=0	
+
+Avaliador = Vânia Tomazelli de Lima
+Projeto = ESTUDO DA BIOINFORMÁTICA NA ÁREA DE DOENÇAS COMPLEXAS: ALZHEIMER
+n1=9	n2=9	n3=10	n4=9	n5=10	n6=10	n7=0	n8=0	
+
+Avaliador = Tatiana Kleinübing
+Projeto = ESTUDO DA BIOINFORMÁTICA NA ÁREA DE DOENÇAS COMPLEXAS: ALZHEIMER
+n1=10	n2=10	n3=10	n4=8	n5=8	n6=10	n7=0	n8=0	
+
+Avaliador = Luciano Rivas Costa
+Projeto = ESTUDO DA BIOINFORMÁTICA NA ÁREA DE DOENÇAS COMPLEXAS: ALZHEIMER
+n1=10	n2=10	n3=9	n4=9	n5=10	n6=9	n7=0	n8=0	
+
+Avaliador = Marcio Roberto Rigotte
+Projeto = PRODUÇÃO DE COLETOR DE ESPOROS PARA AUXÍLIO NO MONITORAMENTO DA SOJA
+n1=8	n2=8	n3=8	n4=9	n5=9	n6=8	n7=0	n8=0	
+
+Avaliador = Carlos Antônio dos Santos
+Projeto = PRODUÇÃO DE COLETOR DE ESPOROS PARA AUXÍLIO NO MONITORAMENTO DA SOJA
+n1=10	n2=10	n3=10	n4=9	n5=10	n6=9	n7=0	n8=0	
+
+Avaliador = Sergio André Tapparo
+Projeto = PRODUÇÃO DE COLETOR DE ESPOROS PARA AUXÍLIO NO MONITORAMENTO DA SOJA
+n1=9	n2=8	n3=8	n4=8	n5=9	n6=8	n7=0	n8=0	
+
+Avaliador = Josiane Paula Maltauro lopes
+Projeto = A IMPORTÂNCIA DA ARTE NO DESENVOLVIMENTO DE PESSOAS COM DEFICIÊNCIA INTECTUAL
+n1=9	n2=6	n3=7	n4=7	n5=9	n6=8	n7=0	n8=0	
+
+Avaliador = Ana Carolina Bezerra dos Santos
+Projeto = A IMPORTÂNCIA DA ARTE NO DESENVOLVIMENTO DE PESSOAS COM DEFICIÊNCIA INTECTUAL
+n1=10	n2=8	n3=8	n4=10	n5=10	n6=0	n7=0	n8=0	
+
+Avaliador = Jocenir Maria Miranda Obregão Anhezini
+Projeto = A IMPORTÂNCIA DA ARTE NO DESENVOLVIMENTO DE PESSOAS COM DEFICIÊNCIA INTECTUAL
+n1=9	n2=10	n3=9	n4=10	n5=10	n6=0	n7=0	n8=0	
+
+Avaliador = Marceliana Mendes dos Reis
+Projeto = CONHECENDO E APLICANDO: A IMPORTÂNCIA DA SEPARAÇÃO DO LIXO E DA COLETA SELETIVA
+n1=8	n2=8	n3=8	n4=7.5	n5=9	n6=10	n7=0	n8=0	
+
+Avaliador = Laura Loreiro Romisch
+Projeto = CONHECENDO E APLICANDO: A IMPORTÂNCIA DA SEPARAÇÃO DO LIXO E DA COLETA SELETIVA
+n1=8	n2=8	n3=9	n4=7.5	n5=8	n6=10	n7=0	n8=0	
+
+Avaliador = Nara Cristina Chiarini Pena Barbosa
+Projeto = CONHECENDO E APLICANDO: A IMPORTÂNCIA DA SEPARAÇÃO DO LIXO E DA COLETA SELETIVA
+n1=10	n2=10	n3=9	n4=10	n5=10	n6=10	n7=0	n8=0	
+
+Avaliador = Renata de Oliveira Costa
+Projeto = UM CATÁLOGO FRONTEIRIÇO: ARQUEOLOGIA NA FRONTEIRA DE PONTA PORÃ E PEDRO JUAN CABALLERO
+n1=10	n2=9	n3=8	n4=9	n5=8	n6=0	n7=0	n8=0	
+
+Avaliador = Ana Paula Macedo Cartapatti Kaimoti
+Projeto = UM CATÁLOGO FRONTEIRIÇO: ARQUEOLOGIA NA FRONTEIRA DE PONTA PORÃ E PEDRO JUAN CABALLERO
+n1=10	n2=7	n3=10	n4=8	n5=9	n6=10	n7=0	n8=0	
+
+Avaliador = Almir José Weinfortner
+Projeto = UM CATÁLOGO FRONTEIRIÇO: ARQUEOLOGIA NA FRONTEIRA DE PONTA PORÃ E PEDRO JUAN CABALLERO
+n1=10	n2=8	n3=8	n4=9	n5=8	n6=10	n7=0	n8=0	
+
+Avaliador = Marilyn Aparecida Errobidarte de Matos
+Projeto = IMPORTÂNCIA DO ESTUDO DA ASTRONOMIA INDÍGENA BRASILEIRA NO ESPAÇO ACADÊMICO
+n1=8	n2=8	n3=7.5	n4=8	n5=7.5	n6=7.5	n7=0	n8=0	
+
+Avaliador = Ana Carolina Bezerra dos Santos
+Projeto = IMPORTÂNCIA DO ESTUDO DA ASTRONOMIA INDÍGENA BRASILEIRA NO ESPAÇO ACADÊMICO
+n1=9	n2=7	n3=7	n4=8	n5=8	n6=0	n7=0	n8=0	
+
+Avaliador = Antonio Luiz Viegas Neto
+Projeto = IMPORTÂNCIA DO ESTUDO DA ASTRONOMIA INDÍGENA BRASILEIRA NO ESPAÇO ACADÊMICO
+n1=10	n2=10	n3=7	n4=9	n5=10	n6=10	n7=0	n8=0	
+
+Avaliador = Aldo Marcello Costa Bicalho
+Projeto = O IMPACTO DA OLIMPIADA BRASILEIRA DE EDUCAÇÃO FINANCEIRA EM ESTUDANTES DOS IFMS CAMPUS PONTA PORÃ
+n1=8	n2=8	n3=8	n4=8	n5=8	n6=9	n7=0	n8=0	
+
+Avaliador = Mariana Arndt de Souza
+Projeto = O IMPACTO DA OLIMPIADA BRASILEIRA DE EDUCAÇÃO FINANCEIRA EM ESTUDANTES DOS IFMS CAMPUS PONTA PORÃ
+n1=7	n2=7	n3=7	n4=6	n5=7	n6=0	n7=0	n8=0	
+
+Avaliador = Alex Pereira do Carmo
+Projeto = O IMPACTO DA OLIMPIADA BRASILEIRA DE EDUCAÇÃO FINANCEIRA EM ESTUDANTES DOS IFMS CAMPUS PONTA PORÃ
+n1=10	n2=10	n3=10	n4=10	n5=9	n6=9	n7=0	n8=0	
+
+Avaliador = Midiane Scarabeli Alves Coelho da Silva
+Projeto = OS DESAFIOS DA GESTÃO EM UMA EMPRESA FAMILIAR
+n1=10	n2=9	n3=10	n4=10	n5=9	n6=0	n7=0	n8=0	
+
+Avaliador = Ivan Claudino Herrmann
+Projeto = OS DESAFIOS DA GESTÃO EM UMA EMPRESA FAMILIAR
+n1=9	n2=9	n3=9	n4=9	n5=9	n6=10	n7=0	n8=0	
+
+Avaliador = Aldo Marcello Costa Bicalho
+Projeto = OS DESAFIOS DA GESTÃO EM UMA EMPRESA FAMILIAR
+n1=9	n2=7.5	n3=7.5	n4=8	n5=10	n6=8	n7=0	n8=0	
+
+Avaliador = Júlio César Ribeiro
+Projeto = RAÍZES ARTIFICIAS EM VASO AUTOIRRIGÁVEL
+n1=6	n2=6	n3=6	n4=6	n5=5	n6=6	n7=0	n8=0	
+
+Avaliador = Sergio André Tapparo
+Projeto = RAÍZES ARTIFICIAS EM VASO AUTOIRRIGÁVEL
+n1=8	n2=8	n3=7.5	n4=7.5	n5=7	n6=10	n7=0	n8=0	
+
+Avaliador = Flavia Barbosa de Santana Pacheco
+Projeto = RAÍZES ARTIFICIAS EM VASO AUTOIRRIGÁVEL
+n1=7	n2=7.5	n3=6	n4=7	n5=7	n6=7.5	n7=0	n8=0	
+
+Avaliador = Marcio Roberto Rigotte
+Projeto = CULTIVO ORGÂNICO DE PIMENTEIRA EM RECIPIENTES DE DIFERENTES VOLUMES
+n1=9	n2=8	n3=9	n4=9	n5=9	n6=9	n7=0	n8=0	
+
+Avaliador = Odilene de Souza Teixeira
+Projeto = CULTIVO ORGÂNICO DE PIMENTEIRA EM RECIPIENTES DE DIFERENTES VOLUMES
+n1=10	n2=10	n3=10	n4=10	n5=10	n6=10	n7=0	n8=0	
+
+Avaliador = Carlos Antônio dos Santos
+Projeto = CULTIVO ORGÂNICO DE PIMENTEIRA EM RECIPIENTES DE DIFERENTES VOLUMES
+n1=10	n2=9	n3=10	n4=9	n5=10	n6=10	n7=0	n8=0	
+
+Avaliador = Adenice Lira Soares Arraes
+Projeto = A INFLUÊNCIA DAS REDES SOCIAIS NA SAÚDE MENTAL E NA AUTOIMAGEM DE JOVENS: REVISÃO CRÍTICA
+n1=10	n2=9	n3=10	n4=10	n5=10	n6=0	n7=0	n8=0	
+
+Avaliador = Marceliana Mendes dos Reis
+Projeto = A INFLUÊNCIA DAS REDES SOCIAIS NA SAÚDE MENTAL E NA AUTOIMAGEM DE JOVENS: REVISÃO CRÍTICA
+n1=8	n2=8	n3=9	n4=8	n5=7.5	n6=0	n7=0	n8=0	
+
+Avaliador = Ana Carolina Bezerra dos Santos
+Projeto = A INFLUÊNCIA DAS REDES SOCIAIS NA SAÚDE MENTAL E NA AUTOIMAGEM DE JOVENS: REVISÃO CRÍTICA
+n1=10	n2=10	n3=9	n4=10	n5=8	n6=0	n7=0	n8=0	
+
+Avaliador = Sergio André Tapparo
+Projeto = OS BENEFÍCIOS DAS ATIVIDADES FÍSICAS CONTRA O CORONA VÍRUS
+n1=7.5	n2=7	n3=7	n4=7.5	n5=7.5	n6=10	n7=0	n8=0	
+
+Avaliador = Jocenir Maria Miranda Obregão Anhezini
+Projeto = OS BENEFÍCIOS DAS ATIVIDADES FÍSICAS CONTRA O CORONA VÍRUS
+n1=9	n2=10	n3=9	n4=7.5	n5=9	n6=0	n7=0	n8=0	
+
+Avaliador = Márlon Pereira
+Projeto = OS BENEFÍCIOS DAS ATIVIDADES FÍSICAS CONTRA O CORONA VÍRUS
+n1=8	n2=8	n3=7.5	n4=8	n5=7.5	n6=8	n7=0	n8=0	
+
+Avaliador = Alexandra Maciel Riquelme
+Projeto = IMPORTÂNCIA DA EDUCAÇÃO ALIMENTAR E NUTRICIONAL NA ADOLESCÊNCIA
+n1=10	n2=9	n3=8	n4=9	n5=9	n6=0	n7=0	n8=0	
+
+Avaliador = Guilherme Ramos Demetrio Ferreira
+Projeto = IMPORTÂNCIA DA EDUCAÇÃO ALIMENTAR E NUTRICIONAL NA ADOLESCÊNCIA
+n1=7	n2=6	n3=7	n4=7	n5=7	n6=6	n7=0	n8=0	
+
+Avaliador = Tatiana Kleinübing
+Projeto = IMPORTÂNCIA DA EDUCAÇÃO ALIMENTAR E NUTRICIONAL NA ADOLESCÊNCIA
+n1=10	n2=10	n3=10	n4=10	n5=10	n6=10	n7=0	n8=0	
+
+Avaliador = Adenice Lira Soares Arraes
+Projeto = SERIOUS GAMES E SUA INFLUÊNCIA NO PROCESSO DE DESENVOLVIMENTO DAS FUNÇÕES COGNITIVAS DE CRIANÇAS SURDAS
+n1=9	n2=10	n3=9	n4=10	n5=10	n6=0	n7=0	n8=0	
+
+Avaliador = Helenice Serikaku
+Projeto = SERIOUS GAMES E SUA INFLUÊNCIA NO PROCESSO DE DESENVOLVIMENTO DAS FUNÇÕES COGNITIVAS DE CRIANÇAS SURDAS
+n1=9	n2=9	n3=10	n4=9	n5=9	n6=0	n7=0	n8=0	
+
+Avaliador = Ana Paula Macedo Cartapatti Kaimoti
+Projeto = SERIOUS GAMES E SUA INFLUÊNCIA NO PROCESSO DE DESENVOLVIMENTO DAS FUNÇÕES COGNITIVAS DE CRIANÇAS SURDAS
+n1=10	n2=10	n3=10	n4=9	n5=9	n6=10	n7=0	n8=0	
+
+Avaliador = Bianca Ferreira Duarte
+Projeto = SÍNTESE DE DERIVADOS DO ÁCIDO SALICÍLICO VISANDO ATIVIDADE ANTIFÚNGICA E INSETICIDA: EFEITO DA ESTRUTURA MOLECULAR VERSUS ATIVIDADE BIOLÓGICA
+n1=10	n2=10	n3=9	n4=10	n5=8	n6=10	n7=0	n8=0	
+
+Avaliador = Antonio Luiz Viegas Neto
+Projeto = SÍNTESE DE DERIVADOS DO ÁCIDO SALICÍLICO VISANDO ATIVIDADE ANTIFÚNGICA E INSETICIDA: EFEITO DA ESTRUTURA MOLECULAR VERSUS ATIVIDADE BIOLÓGICA
+n1=10	n2=10	n3=8	n4=10	n5=10	n6=10	n7=0	n8=0	
+
+Avaliador = Tatiana Kleinübing
+Projeto = SÍNTESE DE DERIVADOS DO ÁCIDO SALICÍLICO VISANDO ATIVIDADE ANTIFÚNGICA E INSETICIDA: EFEITO DA ESTRUTURA MOLECULAR VERSUS ATIVIDADE BIOLÓGICA
+n1=10	n2=9	n3=9	n4=9	n5=9	n6=10	n7=0	n8=0	
+
+Avaliador = Flavia Barbosa de Santana Pacheco
+Projeto = AVALIAÇÃO DA ADAPTABILIDADE DE DIFERENTES VARIEDADES DE ALGODOEIRO NA REGIÃO DE PONTA PORÃ - MS
+n1=5	n2=5	n3=3	n4=7	n5=3	n6=3	n7=0	n8=0	
+
+Avaliador = Aldo Marcello Costa Bicalho
+Projeto = AVALIAÇÃO DA ADAPTABILIDADE DE DIFERENTES VARIEDADES DE ALGODOEIRO NA REGIÃO DE PONTA PORÃ - MS
+n1=7	n2=7	n3=7	n4=7.5	n5=5	n6=7	n7=0	n8=0	
+
+Avaliador = Marcio Roberto Rigotte
+Projeto = AVALIAÇÃO DA ADAPTABILIDADE DE DIFERENTES VARIEDADES DE ALGODOEIRO NA REGIÃO DE PONTA PORÃ - MS
+n1=8	n2=10	n3=10	n4=9	n5=10	n6=9	n7=0	n8=0	
+
+Avaliador = Júlio César Ribeiro
+Projeto = EFEITO ALELOPATICO DO ÓLEO ESSENCIAL DA CASCA DA LARANJA (LIMONENO) NO MANEJO DE PLANTAS DANINHAS
+n1=7	n2=7	n3=7.5	n4=6	n5=7.5	n6=8	n7=0	n8=0	
+
+Avaliador = Sergio André Tapparo
+Projeto = EFEITO ALELOPATICO DO ÓLEO ESSENCIAL DA CASCA DA LARANJA (LIMONENO) NO MANEJO DE PLANTAS DANINHAS
+n1=9	n2=8	n3=8	n4=7.5	n5=10	n6=10	n7=0	n8=0	
+
+Avaliador = Marcio Roberto Rigotte
+Projeto = EFEITO ALELOPATICO DO ÓLEO ESSENCIAL DA CASCA DA LARANJA (LIMONENO) NO MANEJO DE PLANTAS DANINHAS
+n1=10	n2=9	n3=9	n4=9	n5=9	n6=9	n7=0	n8=0	
+
+Avaliador = Mariana Arndt de Souza
+Projeto = AS INFLUÊNCIAS DOS JOGOS ELETRÔNICOS SOBRE OS JOGADORES: UMA ANÁLISE NOS ESTUDANTES DO IFMS
+n1=7	n2=5	n3=5	n4=5	n5=7	n6=0	n7=0	n8=0	
+
+Avaliador = Thaynara Dedé Andrade Brito
+Projeto = AS INFLUÊNCIAS DOS JOGOS ELETRÔNICOS SOBRE OS JOGADORES: UMA ANÁLISE NOS ESTUDANTES DO IFMS
+n1=7.5	n2=7.5	n3=7.5	n4=8	n5=8	n6=7.5	n7=0	n8=0	
+
+Avaliador = Edivaldo Geffer
+Projeto = AS INFLUÊNCIAS DOS JOGOS ELETRÔNICOS SOBRE OS JOGADORES: UMA ANÁLISE NOS ESTUDANTES DO IFMS
+n1=10	n2=10	n3=8	n4=9	n5=10	n6=0	n7=0	n8=0	
+
+Avaliador = Renata de Oliveira Costa
+Projeto = UMA ANÁLISE DE MÍDIAS CONTEMPORÂNEAS RELACIONADAS A SAÚDE MENTAL
+n1=9	n2=10	n3=10	n4=9	n5=10	n6=0	n7=0	n8=0	
+
+Avaliador = Tatiana Kleinübing
+Projeto = UMA ANÁLISE DE MÍDIAS CONTEMPORÂNEAS RELACIONADAS A SAÚDE MENTAL
+n1=10	n2=10	n3=10	n4=10	n5=10	n6=10	n7=10	n8=0	
+
+Avaliador = Bianca Ferreira Duarte
+Projeto = UMA ANÁLISE DE MÍDIAS CONTEMPORÂNEAS RELACIONADAS A SAÚDE MENTAL
+n1=10	n2=10	n3=10	n4=10	n5=10	n6=10	n7=10	n8=0	
+
+Avaliador = Almir José Weinfortner
+Projeto = LA GUARDA PAMPA: ¿SÍMBOLO DE ARGENTINIDAD?
+n1=10	n2=10	n3=9	n4=10	n5=9	n6=10	n7=0	n8=0	
+
+Avaliador = Elisângela da Silva Santos
+Projeto = LA GUARDA PAMPA: ¿SÍMBOLO DE ARGENTINIDAD?
+n1=8	n2=8	n3=8	n4=9	n5=7.5	n6=7.5	n7=0	n8=0	
+
+Avaliador = Helenice Serikaku
+Projeto = LA GUARDA PAMPA: ¿SÍMBOLO DE ARGENTINIDAD?
+n1=10	n2=10	n3=10	n4=10	n5=10	n6=0	n7=0	n8=0	
+
+Avaliador = Ivan Claudino Herrmann
+Projeto = LA INFLUENCIA DE LOS VIDEOJUEGOS EN LA INFANCIA Y ADOLESCENCIA
+n1=9	n2=9	n3=8	n4=9	n5=8	n6=9	n7=0	n8=0	
+
+Avaliador = Helenice Serikaku
+Projeto = LA INFLUENCIA DE LOS VIDEOJUEGOS EN LA INFANCIA Y ADOLESCENCIA
+n1=8	n2=10	n3=8	n4=8	n5=9	n6=0	n7=0	n8=0	
+
+Avaliador = Jocinei Lopes Araujo
+Projeto = LA INFLUENCIA DE LOS VIDEOJUEGOS EN LA INFANCIA Y ADOLESCENCIA
+n1=7	n2=7	n3=7	n4=7	n5=7	n6=0	n7=0	n8=0	
+
+Avaliador = Vânia Tomazelli de Lima
+Projeto = REGENERAÇÃO ÓSSEA: COMO UM OSSO QUEBRADO SE REGENERA?
+n1=9	n2=10	n3=10	n4=10	n5=10	n6=10	n7=0	n8=0	
+
+Avaliador = Alexandra Maciel Riquelme
+Projeto = REGENERAÇÃO ÓSSEA: COMO UM OSSO QUEBRADO SE REGENERA?
+n1=9	n2=9	n3=9	n4=10	n5=9	n6=0	n7=0	n8=0	
+
+Avaliador = Marilyn Aparecida Errobidarte de Matos
+Projeto = REGENERAÇÃO ÓSSEA: COMO UM OSSO QUEBRADO SE REGENERA?
+n1=3	n2=5	n3=5	n4=5	n5=6	n6=7	n7=0	n8=0	
+
+Avaliador = Douglas Legramante
+Projeto = VARIAÇÃO DO NÍVEL DA ANSIEDADE EM JOGADORES DE JOGOS ELETRÔNICOS DO IFMS CÂMPUS PONTA PORÃ
+n1=8	n2=7.5	n3=8	n4=8	n5=7.5	n6=8	n7=0	n8=0	
+
+Avaliador = Ivan Claudino Herrmann
+Projeto = VARIAÇÃO DO NÍVEL DA ANSIEDADE EM JOGADORES DE JOGOS ELETRÔNICOS DO IFMS CÂMPUS PONTA PORÃ
+n1=9	n2=9	n3=9	n4=9	n5=9	n6=0	n7=0	n8=0	
+
+Avaliador = Edivaldo Geffer
+Projeto = VARIAÇÃO DO NÍVEL DA ANSIEDADE EM JOGADORES DE JOGOS ELETRÔNICOS DO IFMS CÂMPUS PONTA PORÃ
+n1=9	n2=9	n3=8	n4=9	n5=10	n6=0	n7=0	n8=0	
+
+Avaliador = Vânia Tomazelli de Lima
+Projeto = SAÚDE MENTAL E PANDEMIA DE COVID-19: COMO ESTÃO OS (AS) ESTUDANTES DO IFMS - CAMPUS PONTA PORÃ?
+n1=9	n2=10	n3=9	n4=9	n5=10	n6=10	n7=0	n8=0	
+
+Avaliador = Nara Cristina Chiarini Pena Barbosa
+Projeto = SAÚDE MENTAL E PANDEMIA DE COVID-19: COMO ESTÃO OS (AS) ESTUDANTES DO IFMS - CAMPUS PONTA PORÃ?
+n1=10	n2=9	n3=8	n4=9	n5=10	n6=0	n7=0	n8=0	
+
+Avaliador = Laura Loreiro Romisch
+Projeto = SAÚDE MENTAL E PANDEMIA DE COVID-19: COMO ESTÃO OS (AS) ESTUDANTES DO IFMS - CAMPUS PONTA PORÃ?
+n1=8	n2=7.5	n3=7.5	n4=7.5	n5=7	n6=8	n7=0	n8=0	
+
+Avaliador = Almir José Weinfortner
+Projeto = O IMPACTO DO USO DAS REDES SOCIAIS PELOS (AS) ESTUDANTES DO ENSINO SUPERIOR
+n1=8	n2=8	n3=5	n4=7	n5=9	n6=8	n7=0	n8=0	
+
+Avaliador = Joelson Obregao Matoso
+Projeto = O IMPACTO DO USO DAS REDES SOCIAIS PELOS (AS) ESTUDANTES DO ENSINO SUPERIOR
+n1=10	n2=8	n3=8	n4=10	n5=7.5	n6=10	n7=0	n8=0	
+
+Avaliador = Ana Paula Macedo Cartapatti Kaimoti
+Projeto = O IMPACTO DO USO DAS REDES SOCIAIS PELOS (AS) ESTUDANTES DO ENSINO SUPERIOR
+n1=10	n2=10	n3=10	n4=10	n5=9	n6=10	n7=0	n8=0	
+
+Avaliador = Ana Carolina Bezerra dos Santos
+Projeto = ANÁLISE COMPARATIVA DO USO DAS FERRAMENTAS DO MOODLE E GLOOGE CLASSROOM NAS AULA REMOTAS DURANTE A PANDEMIA DO CORONA VIRUS
+n1=8	n2=8	n3=8	n4=7.5	n5=9	n6=0	n7=0	n8=0	
+
+Avaliador = Ivan Claudino Herrmann
+Projeto = ANÁLISE COMPARATIVA DO USO DAS FERRAMENTAS DO MOODLE E GLOOGE CLASSROOM NAS AULA REMOTAS DURANTE A PANDEMIA DO CORONA VIRUS
+n1=10	n2=9	n3=9	n4=9	n5=10	n6=10	n7=0	n8=0	
+
+Avaliador = Júlio César Ribeiro
+Projeto = ANÁLISE COMPARATIVA DO USO DAS FERRAMENTAS DO MOODLE E GLOOGE CLASSROOM NAS AULA REMOTAS DURANTE A PANDEMIA DO CORONA VIRUS
+n1=8	n2=8	n3=7	n4=7	n5=9	n6=8	n7=0	n8=0	
+
+Avaliador = Ivan Claudino Herrmann
+Projeto = GEOQUILOMBOLAS: PLATAFORMA DE MAPEAMENTO E VISIBILIDADE DAS COMUNIDADES QUILOMBOLAS DE MATO GROSSO DO SUL
+n1=10	n2=10	n3=10	n4=10	n5=9	n6=10	n7=0	n8=0	
+
+Avaliador = Ana Carolina Bezerra dos Santos
+Projeto = GEOQUILOMBOLAS: PLATAFORMA DE MAPEAMENTO E VISIBILIDADE DAS COMUNIDADES QUILOMBOLAS DE MATO GROSSO DO SUL
+n1=10	n2=10	n3=10	n4=10	n5=10	n6=0	n7=0	n8=0	
+
+Avaliador = Marilyn Aparecida Errobidarte de Matos
+Projeto = GEOQUILOMBOLAS: PLATAFORMA DE MAPEAMENTO E VISIBILIDADE DAS COMUNIDADES QUILOMBOLAS DE MATO GROSSO DO SUL
+n1=10	n2=10	n3=10	n4=10	n5=10	n6=8	n7=0	n8=0	
+
+Avaliador = Ivan Claudino Herrmann
+Projeto = PRÁTICAS PEDAGÓGICAS NO ENSINO DE JOVENS AUTISTAS NO INSTITUTO FEDERAL
+n1=10	n2=9	n3=9	n4=9	n5=10	n6=10	n7=0	n8=0	
+
+Avaliador = Edivaldo Geffer
+Projeto = PRÁTICAS PEDAGÓGICAS NO ENSINO DE JOVENS AUTISTAS NO INSTITUTO FEDERAL
+n1=10	n2=9	n3=8	n4=9	n5=10	n6=0	n7=0	n8=0	
+
+Avaliador = Laura Loreiro Romisch
+Projeto = PRÁTICAS PEDAGÓGICAS NO ENSINO DE JOVENS AUTISTAS NO INSTITUTO FEDERAL
+n1=10	n2=9	n3=8	n4=8	n5=8	n6=8	n7=0	n8=0	
+
+Avaliador = Jocinei Lopes Araujo
+Projeto = A INCLUSÃO DAS COMUNIDADES INDÍGENAS NO IFMS-PP
+n1=7.5	n2=8	n3=8	n4=8	n5=8	n6=0	n7=0	n8=0	
+
+Avaliador = Adenice Lira Soares Arraes
+Projeto = A INCLUSÃO DAS COMUNIDADES INDÍGENAS NO IFMS-PP
+n1=10	n2=10	n3=10	n4=10	n5=9	n6=0	n7=0	n8=0	
+
+Avaliador = Ana Carolina Bezerra dos Santos
+Projeto = A INCLUSÃO DAS COMUNIDADES INDÍGENAS NO IFMS-PP
+n1=10	n2=10	n3=9	n4=8	n5=8	n6=0	n7=0	n8=0	
+
+Avaliador = Marcielle Anzilago
+Projeto = EMPREENDEDORISMO EM ÉPOCA DE PANDEMIA: COMO EMPREENDEDORES CONSEGUIRAM CONTORNAR A ATUAL  CRISE ECONÔMICA
+n1=7	n2=6	n3=7	n4=7	n5=7	n6=8	n7=0	n8=0	
+
+Avaliador = Almir José Weinfortner
+Projeto = EMPREENDEDORISMO EM ÉPOCA DE PANDEMIA: COMO EMPREENDEDORES CONSEGUIRAM CONTORNAR A ATUAL  CRISE ECONÔMICA
+n1=10	n2=9	n3=6	n4=8	n5=3	n6=10	n7=0	n8=0	
+
+Avaliador = André Felipe Queiroz
+Projeto = EMPREENDEDORISMO EM ÉPOCA DE PANDEMIA: COMO EMPREENDEDORES CONSEGUIRAM CONTORNAR A ATUAL  CRISE ECONÔMICA
+n1=8	n2=8	n3=6	n4=7.5	n5=3	n6=10	n7=0	n8=0	
+
+Avaliador = Josiane Paula Maltauro lopes
+Projeto = LER, VIVER E APRENDER: UMA PROPOSTA DE AÇÃO PARA IDOSAS E IDOSOS DE ARAL MOREIRA E PONTA PORÃ
+n1=10	n2=8	n3=7	n4=8	n5=10	n6=9	n7=0	n8=0	
+
+Avaliador = Nayara Ferreira Martins Gomes
+Projeto = LER, VIVER E APRENDER: UMA PROPOSTA DE AÇÃO PARA IDOSAS E IDOSOS DE ARAL MOREIRA E PONTA PORÃ
+n1=10	n2=9	n3=7.5	n4=9	n5=10	n6=0	n7=0	n8=0	
+
+Avaliador = Marilene da Silva Ribeiro
+Projeto = LER, VIVER E APRENDER: UMA PROPOSTA DE AÇÃO PARA IDOSAS E IDOSOS DE ARAL MOREIRA E PONTA PORÃ
+n1=7.5	n2=8	n3=10	n4=10	n5=8	n6=10	n7=0	n8=0	
+
+Avaliador = Tatiana Kleinübing
+Projeto = LER, VIVER E APRENDER: UMA PROPOSTA DE AÇÃO PARA IDOSAS E IDOSOS DE ARAL MOREIRA E PONTA PORÃ
+n1=9	n2=10	n3=10	n4=9	n5=9	n6=10	n7=0	n8=0	
+
+Avaliador = Ana Carolina Bezerra dos Santos
+Projeto = A LITERATURA DAS MULHERES NEGRAS NO MOVIMENTO SLAM POETRY
+n1=10	n2=9	n3=9	n4=10	n5=9	n6=0	n7=0	n8=0	
+
+Avaliador = Almir José Weinfortner
+Projeto = A LITERATURA DAS MULHERES NEGRAS NO MOVIMENTO SLAM POETRY
+n1=10	n2=10	n3=10	n4=10	n5=9	n6=10	n7=0	n8=0	
+
+Avaliador = Elisângela da Silva Santos
+Projeto = A LITERATURA DAS MULHERES NEGRAS NO MOVIMENTO SLAM POETRY
+n1=8	n2=8	n3=10	n4=8	n5=8	n6=8	n7=0	n8=0	
+
+Avaliador = Laura Loreiro Romisch
+Projeto = EMPREENDEDORISMO JOVEM ONLINE
+n1=9	n2=8	n3=7.5	n4=8	n5=8	n6=8	n7=0	n8=0	
+
+Avaliador = André Felipe Queiroz
+Projeto = EMPREENDEDORISMO JOVEM ONLINE
+n1=9	n2=8	n3=8	n4=8	n5=10	n6=10	n7=0	n8=0	
+
+Avaliador = Alex Pereira do Carmo
+Projeto = EMPREENDEDORISMO JOVEM ONLINE
+n1=10	n2=10	n3=10	n4=9	n5=9	n6=8	n7=0	n8=0	
+
+Avaliador = Nayara Ferreira Martins Gomes
+Projeto = AS MULHERES NOS CONTOS DE CLARICE LISPECTOR
+n1=10	n2=7.5	n3=10	n4=10	n5=10	n6=0	n7=0	n8=0	
+
+Avaliador = Nágila Seidenstucker
+Projeto = AS MULHERES NOS CONTOS DE CLARICE LISPECTOR
+n1=10	n2=8	n3=9	n4=9	n5=10	n6=0	n7=0	n8=0	
+
+Avaliador = Elisângela da Silva Santos
+Projeto = AS MULHERES NOS CONTOS DE CLARICE LISPECTOR
+n1=10	n2=7.5	n3=7.5	n4=8	n5=10	n6=7.5	n7=0	n8=0	
+
+Avaliador = Joelson Obregao Matoso
+Projeto = INTELIGÊNCIA EMOCIONAL E O IMPACTO DE SUA APLICAÇÃO NO RENDIMENTO ACADÊMICO DOS ALUNOS DO IFMS CAMPUS PONTA PORÃ
+n1=10	n2=9	n3=8	n4=10	n5=10	n6=9	n7=0	n8=0	
+
+Avaliador = Marilene da Silva Ribeiro
+Projeto = INTELIGÊNCIA EMOCIONAL E O IMPACTO DE SUA APLICAÇÃO NO RENDIMENTO ACADÊMICO DOS ALUNOS DO IFMS CAMPUS PONTA PORÃ
+n1=10	n2=10	n3=10	n4=10	n5=10	n6=10	n7=0	n8=0	
+
+Avaliador = Katiane Rodrigues Vila Maior Flores
+Projeto = INTELIGÊNCIA EMOCIONAL E O IMPACTO DE SUA APLICAÇÃO NO RENDIMENTO ACADÊMICO DOS ALUNOS DO IFMS CAMPUS PONTA PORÃ
+n1=8	n2=8	n3=7	n4=8	n5=7.5	n6=8	n7=0	n8=0	
+
+Avaliador = Alexandra Maciel Riquelme
+Projeto = DIREITO A EUTANÁSIA
+n1=9	n2=9	n3=8	n4=9	n5=9	n6=0	n7=0	n8=0	
+
+Avaliador = Guilherme Ramos Demetrio Ferreira
+Projeto = DIREITO A EUTANÁSIA
+n1=8	n2=7	n3=7	n4=7	n5=7.5	n6=0	n7=0	n8=0	
+
+Avaliador = Odilene de Souza Teixeira
+Projeto = DIREITO A EUTANÁSIA
+n1=8	n2=8	n3=8	n4=8	n5=8	n6=0	n7=0	n8=0	
+
+Avaliador = Nayara Ferreira Martins Gomes
+Projeto = SONHOS DE ANGÚSTIA, PERSISTÊNCIA DO INCONSCIENTE: VISÃO DA PSICANÁLISE
+n1=10	n2=10	n3=10	n4=10	n5=10	n6=0	n7=0	n8=0	
+
+Avaliador = Ana Paula Macedo Cartapatti Kaimoti
+Projeto = SONHOS DE ANGÚSTIA, PERSISTÊNCIA DO INCONSCIENTE: VISÃO DA PSICANÁLISE
+n1=8	n2=8	n3=8	n4=8	n5=9	n6=0	n7=0	n8=0	
+
+Avaliador = Nágila Seidenstucker
+Projeto = SONHOS DE ANGÚSTIA, PERSISTÊNCIA DO INCONSCIENTE: VISÃO DA PSICANÁLISE
+n1=9	n2=8	n3=8	n4=8	n5=8	n6=0	n7=0	n8=0	
+
+Avaliador = Odilene de Souza Teixeira
+Projeto = CONSEQUÊNCIAS DA PANDEMIA NA SAÚDE PSICOLÓGICA DE ALUNOS DO CURSO TÉCNICO DE INFORMÁTICA DO IFMS/PONTA PORÃ
+n1=10	n2=10	n3=8	n4=8	n5=8	n6=0	n7=0	n8=0	
+
+Avaliador = Vânia Tomazelli de Lima
+Projeto = CONSEQUÊNCIAS DA PANDEMIA NA SAÚDE PSICOLÓGICA DE ALUNOS DO CURSO TÉCNICO DE INFORMÁTICA DO IFMS/PONTA PORÃ
+n1=8	n2=9	n3=8	n4=9	n5=10	n6=10	n7=0	n8=0	
+
+Avaliador = Márlon Pereira
+Projeto = CONSEQUÊNCIAS DA PANDEMIA NA SAÚDE PSICOLÓGICA DE ALUNOS DO CURSO TÉCNICO DE INFORMÁTICA DO IFMS/PONTA PORÃ
+n1=8	n2=7.5	n3=7.5	n4=7	n5=8	n6=8	n7=0	n8=0	
+
+Avaliador = Ana Carolina Bezerra dos Santos
+Projeto = AS ESTRATÉGIAS DISCURSIVO-ARGUMENTATIVAS DO MOVIMENTO ANTIVACINA
+n1=10	n2=9	n3=9	n4=10	n5=10	n6=0	n7=0	n8=0	
+
+Avaliador = Nayara Ferreira Martins Gomes
+Projeto = AS ESTRATÉGIAS DISCURSIVO-ARGUMENTATIVAS DO MOVIMENTO ANTIVACINA
+n1=10	n2=8	n3=7	n4=8	n5=10	n6=0	n7=0	n8=0	
+
+Avaliador = Joelson Obregao Matoso
+Projeto = AS ESTRATÉGIAS DISCURSIVO-ARGUMENTATIVAS DO MOVIMENTO ANTIVACINA
+n1=10	n2=6	n3=7.5	n4=8	n5=8	n6=10	n7=0	n8=0	
+
+Avaliador = Guilherme Cunha Princival
+Projeto = PROPUESTA DE PROGRAMA VIRTUAL GOTAS DE ORO PARA FOMENTAR LA CULTURA DEL AGUA EN LOS ESTUDIANTES DEL 5º  B DEL NIVEL SECUNDARIA DE LA I.E. 81583 LA MERCED LAREDO, 2021
+n1=9	n2=9	n3=9	n4=5	n5=8	n6=9	n7=0	n8=0	
+
+Avaliador = Savio Vinicius Albieri Barone Cantero
+Projeto = PROPUESTA DE PROGRAMA VIRTUAL GOTAS DE ORO PARA FOMENTAR LA CULTURA DEL AGUA EN LOS ESTUDIANTES DEL 5º  B DEL NIVEL SECUNDARIA DE LA I.E. 81583 LA MERCED LAREDO, 2021
+n1=10	n2=10	n3=9	n4=8	n5=9	n6=10	n7=0	n8=0	
+
+Avaliador = Helenice Serikaku
+Projeto = PROPUESTA DE PROGRAMA VIRTUAL GOTAS DE ORO PARA FOMENTAR LA CULTURA DEL AGUA EN LOS ESTUDIANTES DEL 5º  B DEL NIVEL SECUNDARIA DE LA I.E. 81583 LA MERCED LAREDO, 2021
+n1=10	n2=10	n3=10	n4=10	n5=9	n6=9	n7=0	n8=0	
+
+Avaliador = Elisângela da Silva Santos
+Projeto = AMOR ES AMOR EN TODAS SUS FORMAS
+n1=10	n2=8	n3=8	n4=7.5	n5=7.5	n6=8	n7=0	n8=0	
+
+Avaliador = Jocinei Lopes Araujo
+Projeto = AMOR ES AMOR EN TODAS SUS FORMAS
+n1=6	n2=6	n3=7	n4=7	n5=7	n6=0	n7=0	n8=0	
+
+Avaliador = Helenice Serikaku
+Projeto = AMOR ES AMOR EN TODAS SUS FORMAS
+n1=10	n2=9	n3=10	n4=10	n5=9	n6=0	n7=0	n8=0	
+
+Avaliador = Tatiana Kleinübing
+Projeto = LA RADIACIÓN SOLAR, COMO FUENTE DE ENERGÍA SUSTENTABLE, PARA LA COCCIÓN DE ALIMENTOS
+n1=10	n2=9	n3=10	n4=9	n5=9	n6=10	n7=10	n8=0	
+
+Avaliador = Marcio Roberto Rigotte
+Projeto = LA RADIACIÓN SOLAR, COMO FUENTE DE ENERGÍA SUSTENTABLE, PARA LA COCCIÓN DE ALIMENTOS
+n1=10	n2=9	n3=10	n4=10	n5=10	n6=10	n7=10	n8=0	
+
+Avaliador = Joelson Fernandes
+Projeto = LA RADIACIÓN SOLAR, COMO FUENTE DE ENERGÍA SUSTENTABLE, PARA LA COCCIÓN DE ALIMENTOS
+n1=10	n2=9	n3=8	n4=10	n5=10	n6=10	n7=8	n8=0	
+
+Avaliador = Robson Soares Silva
+Projeto = UM ESTUDO DA CIRURGIA ROBÓTICA
+n1=10	n2=10	n3=10	n4=10	n5=10	n6=10	n7=10	n8=0	
+
+Avaliador = Lucas de Souza Rodrigues
+Projeto = UM ESTUDO DA CIRURGIA ROBÓTICA
+n1=10	n2=8	n3=8	n4=9	n5=8	n6=10	n7=9	n8=0	
+
+Avaliador = Leonardo Mauro Pereira Moraes
+Projeto = UM ESTUDO DA CIRURGIA ROBÓTICA
+n1=9	n2=9	n3=8	n4=8	n5=8	n6=0	n7=0	n8=0	
+
+Avaliador = Lucas de Souza Rodrigues
+Projeto = UM APLICATIVO DE DETECÇÃO SEMI-AUTOMÁTICA ÀS FAKE NEWS DE REDES SOCIAIS DIGITAIS
+n1=9	n2=8	n3=8	n4=8	n5=8	n6=8	n7=10	n8=0	
+
+Avaliador = Douglas Legramante
+Projeto = UM APLICATIVO DE DETECÇÃO SEMI-AUTOMÁTICA ÀS FAKE NEWS DE REDES SOCIAIS DIGITAIS
+n1=9	n2=10	n3=10	n4=9	n5=10	n6=8	n7=10	n8=0	
+
+Avaliador = Leonardo Mauro Pereira Moraes
+Projeto = UM APLICATIVO DE DETECÇÃO SEMI-AUTOMÁTICA ÀS FAKE NEWS DE REDES SOCIAIS DIGITAIS
+n1=9	n2=10	n3=8	n4=8	n5=8	n6=0	n7=10	n8=0	
+
+Avaliador = Leonardo Mauro Pereira Moraes
+Projeto = USANDO UMA ASSISTENTE DE VOZ PARA INTERAÇÃO COM USUÁRIOS PARA AUXILIAR NAS DÚVIDAS DE DETERMINADO ASSUNTO
+n1=8	n2=7.5	n3=6	n4=6	n5=8	n6=0	n7=8	n8=0	
+
+Avaliador = Robson Soares Silva
+Projeto = USANDO UMA ASSISTENTE DE VOZ PARA INTERAÇÃO COM USUÁRIOS PARA AUXILIAR NAS DÚVIDAS DE DETERMINADO ASSUNTO
+n1=10	n2=10	n3=10	n4=10	n5=10	n6=10	n7=10	n8=0	
+
+Avaliador = Joelson Fernandes
+Projeto = USANDO UMA ASSISTENTE DE VOZ PARA INTERAÇÃO COM USUÁRIOS PARA AUXILIAR NAS DÚVIDAS DE DETERMINADO ASSUNTO
+n1=10	n2=10	n3=8	n4=8	n5=10	n6=10	n7=10	n8=0	
+
+Avaliador = Nara Cristina Chiarini Pena Barbosa
+Projeto = PROPIEDADES DE LA ALBAHACA Y USOS FAVORABLES EN TIEMPOS DE COVID, LAREDO 2021
+n1=8	n2=7.5	n3=7	n4=7.5	n5=8	n6=0	n7=0	n8=0	
+
+Avaliador = Alexandra Maciel Riquelme
+Projeto = PROPIEDADES DE LA ALBAHACA Y USOS FAVORABLES EN TIEMPOS DE COVID, LAREDO 2021
+n1=8	n2=9	n3=8	n4=9	n5=9	n6=8	n7=0	n8=0	
+
+Avaliador = Guilherme Ramos Demetrio Ferreira
+Projeto = PROPIEDADES DE LA ALBAHACA Y USOS FAVORABLES EN TIEMPOS DE COVID, LAREDO 2021
+n1=7	n2=7	n3=7	n4=7	n5=7	n6=6	n7=0	n8=0	
+
+Avaliador = Adenice Lira Soares Arraes
+Projeto = EXCLUSÃO DA HISTÓRIA DAS MULHERES
+n1=10	n2=9	n3=9	n4=10	n5=9	n6=0	n7=0	n8=0	
+
+Avaliador = Ivan Claudino Herrmann
+Projeto = EXCLUSÃO DA HISTÓRIA DAS MULHERES
+n1=10	n2=9	n3=9	n4=9	n5=9	n6=10	n7=0	n8=0	
+
+Avaliador = Almir José Weinfortner
+Projeto = EXCLUSÃO DA HISTÓRIA DAS MULHERES
+n1=9	n2=9	n3=8	n4=9	n5=9	n6=9	n7=0	n8=0	
+
+Avaliador = Luciano Rivas Costa
+Projeto = VÍCIO EM JOGOS ELETRÔNICOS, UM ESTUDO COM OS ESTUDANTES DO TÉCNICO INTEGRADO DO IFMS CAMPUS PONTA PORÃ
+n1=10	n2=10	n3=9	n4=8	n5=8	n6=8	n7=0	n8=0	
+
+Avaliador = Thaynara Dedé Andrade Brito
+Projeto = VÍCIO EM JOGOS ELETRÔNICOS, UM ESTUDO COM OS ESTUDANTES DO TÉCNICO INTEGRADO DO IFMS CAMPUS PONTA PORÃ
+n1=7.5	n2=8	n3=8	n4=8	n5=8	n6=8	n7=0	n8=0	
+
+Avaliador = Douglas Legramante
+Projeto = VÍCIO EM JOGOS ELETRÔNICOS, UM ESTUDO COM OS ESTUDANTES DO TÉCNICO INTEGRADO DO IFMS CAMPUS PONTA PORÃ
+n1=8	n2=8	n3=7	n4=7	n5=8	n6=8	n7=0	n8=0	
+
+Avaliador = Aldo Marcello Costa Bicalho
+Projeto = LOOT BOXES E SEUS MALEFÍCIOS
+n1=7.5	n2=7.5	n3=7.5	n4=7.5	n5=7.5	n6=7.5	n7=0	n8=0	
+
+Avaliador = Sergio André Tapparo
+Projeto = LOOT BOXES E SEUS MALEFÍCIOS
+n1=8	n2=8	n3=9	n4=8	n5=8	n6=8	n7=0	n8=0	
+
+Avaliador = Ivan Claudino Herrmann
+Projeto = LOOT BOXES E SEUS MALEFÍCIOS
+n1=8	n2=8	n3=8	n4=8	n5=8	n6=8	n7=0	n8=0	
+
+Avaliador = Josiane Paula Maltauro lopes
+Projeto = AS TECNOLOGIAS UTILIZADAS PELOS ALUNOS E PROFESSORES DO IFMS CÂMPUS PONTA PORÃ DURANTE A PANDEMIA PROVOCADA PELO COVID-19
+n1=9	n2=8	n3=8	n4=9	n5=7	n6=7	n7=0	n8=0	
+
+Avaliador = Tatiana Kleinübing
+Projeto = AS TECNOLOGIAS UTILIZADAS PELOS ALUNOS E PROFESSORES DO IFMS CÂMPUS PONTA PORÃ DURANTE A PANDEMIA PROVOCADA PELO COVID-19
+n1=10	n2=10	n3=10	n4=10	n5=10	n6=10	n7=10	n8=0	
+
+Avaliador = Sergio André Tapparo
+Projeto = AS TECNOLOGIAS UTILIZADAS PELOS ALUNOS E PROFESSORES DO IFMS CÂMPUS PONTA PORÃ DURANTE A PANDEMIA PROVOCADA PELO COVID-19
+n1=9	n2=8	n3=8	n4=9	n5=8	n6=9	n7=7.5	n8=0	
+
+Avaliador = Jocenir Maria Miranda Obregão Anhezini
+Projeto = GENTE COMO A GENTE: A INCLUSÃO SOCIAL NA TECNOLOGIA DE PESSOAS COM DEFICIÊNCIA E A IMPORTÂNCIA DISSO NA EDUCAÇÃO TÉCNICA
+n1=9	n2=10	n3=10	n4=9	n5=9	n6=0	n7=0	n8=0	
+
+Avaliador = Laura Loreiro Romisch
+Projeto = GENTE COMO A GENTE: A INCLUSÃO SOCIAL NA TECNOLOGIA DE PESSOAS COM DEFICIÊNCIA E A IMPORTÂNCIA DISSO NA EDUCAÇÃO TÉCNICA
+n1=7.5	n2=8	n3=7.5	n4=7.5	n5=8	n6=8	n7=7.5	n8=0	
+
+Avaliador = Midiane Scarabeli Alves Coelho da Silva
+Projeto = GENTE COMO A GENTE: A INCLUSÃO SOCIAL NA TECNOLOGIA DE PESSOAS COM DEFICIÊNCIA E A IMPORTÂNCIA DISSO NA EDUCAÇÃO TÉCNICA
+n1=10	n2=9	n3=10	n4=10	n5=10	n6=0	n7=10	n8=0	
+
+Avaliador = Marceliana Mendes dos Reis
+Projeto = A IMPORTÂNCIA DA INTELIGÊNCIA EMOCIONAL NAS ESCOLAS: UM  SITE QUE AUXILIA NA INTELIGÊNCIA EMOCIONAL DO ALUNO
+n1=9	n2=8	n3=8	n4=8	n5=7.5	n6=8	n7=0	n8=0	
+
+Avaliador = Ivan Claudino Herrmann
+Projeto = A IMPORTÂNCIA DA INTELIGÊNCIA EMOCIONAL NAS ESCOLAS: UM  SITE QUE AUXILIA NA INTELIGÊNCIA EMOCIONAL DO ALUNO
+n1=9	n2=9	n3=9	n4=10	n5=8	n6=10	n7=0	n8=0	
+
+Avaliador = Flavia Barbosa de Santana Pacheco
+Projeto = A IMPORTÂNCIA DA INTELIGÊNCIA EMOCIONAL NAS ESCOLAS: UM  SITE QUE AUXILIA NA INTELIGÊNCIA EMOCIONAL DO ALUNO
+n1=9	n2=10	n3=10	n4=10	n5=7.5	n6=10	n7=0	n8=0	
+
+Avaliador = Katiane Rodrigues Vila Maior Flores
+Projeto = A MUSICOTERAPIA NO TRATAMENTO DE DEPRESSÃO E ANSIEDADE
+n1=8	n2=8	n3=8	n4=8	n5=8	n6=8	n7=0	n8=0	
+
+Avaliador = Antonio Luiz Viegas Neto
+Projeto = A MUSICOTERAPIA NO TRATAMENTO DE DEPRESSÃO E ANSIEDADE
+n1=10	n2=8	n3=9	n4=9	n5=9	n6=9	n7=0	n8=0	
+
+Avaliador = Marceliana Mendes dos Reis
+Projeto = A MUSICOTERAPIA NO TRATAMENTO DE DEPRESSÃO E ANSIEDADE
+n1=8	n2=7.5	n3=8	n4=8	n5=8	n6=0	n7=0	n8=0	
+
+Avaliador = Ivan Claudino Herrmann
+Projeto = A INFLUÊNCIA DA MÍDIA NAS PRÁTICAS DE CONSUMO: GERAÇÃO INSTAGRAM E TIKTOK
+n1=9	n2=9	n3=9	n4=8	n5=9	n6=10	n7=0	n8=0	
+
+Avaliador = Flavia Barbosa de Santana Pacheco
+Projeto = A INFLUÊNCIA DA MÍDIA NAS PRÁTICAS DE CONSUMO: GERAÇÃO INSTAGRAM E TIKTOK
+n1=7.5	n2=7.5	n3=8	n4=8	n5=8	n6=8	n7=0	n8=0	
+
+Avaliador = Douglas Legramante
+Projeto = A INFLUÊNCIA DA MÍDIA NAS PRÁTICAS DE CONSUMO: GERAÇÃO INSTAGRAM E TIKTOK
+n1=8	n2=8	n3=8	n4=9	n5=8	n6=9	n7=0	n8=0	
+
+Avaliador = Marilene da Silva Ribeiro
+Projeto = O AUTOCONHECIMENTO: O CONHECIMENTO PRIMORDIAL PARA O CRESCIMENTO E SATISFAÇAO DO SER HUMANO
+n1=10	n2=10	n3=10	n4=9	n5=8	n6=10	n7=0	n8=0	
+
+Avaliador = Ana Paula Macedo Cartapatti Kaimoti
+Projeto = O AUTOCONHECIMENTO: O CONHECIMENTO PRIMORDIAL PARA O CRESCIMENTO E SATISFAÇAO DO SER HUMANO
+n1=9	n2=10	n3=10	n4=8	n5=8	n6=10	n7=0	n8=0	
+
+Avaliador = Joelson Obregao Matoso
+Projeto = O AUTOCONHECIMENTO: O CONHECIMENTO PRIMORDIAL PARA O CRESCIMENTO E SATISFAÇAO DO SER HUMANO
+n1=10	n2=8	n3=8	n4=8	n5=9	n6=8	n7=0	n8=0	
+
+Avaliador = Ana Carolina Bezerra dos Santos
+Projeto = A IMPORTÂNCIA DA AUTO-EXPRESSÃO NA INFÂNCIA POR MEIO DA ARTE
+n1=10	n2=8	n3=8	n4=7.5	n5=10	n6=0	n7=0	n8=0	
+
+Avaliador = Katiane Rodrigues Vila Maior Flores
+Projeto = A IMPORTÂNCIA DA AUTO-EXPRESSÃO NA INFÂNCIA POR MEIO DA ARTE
+n1=10	n2=10	n3=10	n4=10	n5=10	n6=10	n7=0	n8=0	
+
+Avaliador = Josiane Paula Maltauro lopes
+Projeto = A IMPORTÂNCIA DA AUTO-EXPRESSÃO NA INFÂNCIA POR MEIO DA ARTE
+n1=8	n2=7.5	n3=8	n4=8	n5=7	n6=8	n7=0	n8=0	
+
+Avaliador = Renata de Oliveira Costa
+Projeto = PORTAL MARCA-PÁGINA: USO DA PLATAFORMA WEB COMO PORTA DE ENTRADA PARA A LITERATURA BRASILEIRA
+n1=10	n2=10	n3=9	n4=9	n5=10	n6=0	n7=0	n8=0	
+
+Avaliador = Ana Paula Macedo Cartapatti Kaimoti
+Projeto = PORTAL MARCA-PÁGINA: USO DA PLATAFORMA WEB COMO PORTA DE ENTRADA PARA A LITERATURA BRASILEIRA
+n1=10	n2=10	n3=10	n4=10	n5=8	n6=0	n7=8	n8=0	
+
+Avaliador = Ana Carolina Bezerra dos Santos
+Projeto = PORTAL MARCA-PÁGINA: USO DA PLATAFORMA WEB COMO PORTA DE ENTRADA PARA A LITERATURA BRASILEIRA
+n1=9	n2=7	n3=9	n4=8	n5=8	n6=0	n7=9	n8=0	
+
+Avaliador = Josianny Limeira Figueira
+Projeto = PROGRESSÃO DE DOENÇAS MENTAIS NO ÂMBITO ESCOLAR
+n1=10	n2=10	n3=10	n4=9	n5=9	n6=0	n7=0	n8=0	
+
+Avaliador = Taís Helena de Araujo Rodrigues
+Projeto = PROGRESSÃO DE DOENÇAS MENTAIS NO ÂMBITO ESCOLAR
+n1=10	n2=10	n3=10	n4=10	n5=10	n6=0	n7=0	n8=0	
+
+Avaliador = Tatiana Kleinübing
+Projeto = PROGRESSÃO DE DOENÇAS MENTAIS NO ÂMBITO ESCOLAR
+n1=10	n2=10	n3=10	n4=10	n5=10	n6=10	n7=0	n8=0	
+
+Avaliador = Rosemary Sanches Ramires 
+Projeto = PROGRESSÃO DE DOENÇAS MENTAIS NO ÂMBITO ESCOLAR
+n1=10	n2=7.5	n3=7.5	n4=7.5	n5=7	n6=7.5	n7=0	n8=0	
+
+Avaliador = Savio Vinicius Albieri Barone Cantero
+Projeto = PROGRESSÃO DE DOENÇAS MENTAIS NO ÂMBITO ESCOLAR
+n1=9	n2=8	n3=8	n4=8	n5=9	n6=0	n7=0	n8=0	
+
+Avaliador = Taís Helena de Araujo Rodrigues
+Projeto = OS EFEITOS DAS ONDAS BINAURAIS NO SISTEMA COGNITIVO
+n1=10	n2=9	n3=9	n4=9	n5=8	n6=0	n7=0	n8=0	
+
+Avaliador = Alexandra Maciel Riquelme
+Projeto = OS EFEITOS DAS ONDAS BINAURAIS NO SISTEMA COGNITIVO
+n1=10	n2=9	n3=9	n4=9	n5=9	n6=0	n7=0	n8=0	
+
+Avaliador = Nara Cristina Chiarini Pena Barbosa
+Projeto = OS EFEITOS DAS ONDAS BINAURAIS NO SISTEMA COGNITIVO
+n1=8	n2=7.5	n3=7	n4=8	n5=8	n6=0	n7=0	n8=0	
+
+Avaliador = Tatiana Kleinübing
+Projeto = REDESCUBRIENDO RICOS TESOROS DE LA RAZA INDOMABLE DE ANTAÑO EN PLATAFORMAS VIRTUALES PARA FORTALECER LA IDETIDAD LAREDINA GENERANDO DESARROLLO SOSTENIBLE, 2021
+n1=7.5	n2=7.5	n3=7.5	n4=6	n5=8	n6=8	n7=0	n8=0	
+
+Avaliador = Ana Paula Macedo Cartapatti Kaimoti
+Projeto = REDESCUBRIENDO RICOS TESOROS DE LA RAZA INDOMABLE DE ANTAÑO EN PLATAFORMAS VIRTUALES PARA FORTALECER LA IDETIDAD LAREDINA GENERANDO DESARROLLO SOSTENIBLE, 2021
+n1=10	n2=9	n3=9	n4=9	n5=10	n6=10	n7=0	n8=0	
+
+Avaliador = Jocinei Lopes Araujo
+Projeto = REDESCUBRIENDO RICOS TESOROS DE LA RAZA INDOMABLE DE ANTAÑO EN PLATAFORMAS VIRTUALES PARA FORTALECER LA IDETIDAD LAREDINA GENERANDO DESARROLLO SOSTENIBLE, 2021
+n1=8	n2=7.5	n3=8	n4=9	n5=8	n6=8	n7=0	n8=0	
+
+Avaliador = Flavia Barbosa de Santana Pacheco
+Projeto = EDIFICIOS INTELIGENTES: COMO ESSAS CONSTRUÇÕES BENEFICIARIAM A VIDA HUMANA E O MEIO AMBIENTE
+n1=8	n2=9	n3=8	n4=8	n5=7.5	n6=10	n7=0	n8=0	
+
+Avaliador = Sergio André Tapparo
+Projeto = EDIFICIOS INTELIGENTES: COMO ESSAS CONSTRUÇÕES BENEFICIARIAM A VIDA HUMANA E O MEIO AMBIENTE
+n1=7.5	n2=7.5	n3=7.5	n4=7.5	n5=7.5	n6=8	n7=0	n8=0	
+
+Avaliador = Douglas Legramante
+Projeto = EDIFICIOS INTELIGENTES: COMO ESSAS CONSTRUÇÕES BENEFICIARIAM A VIDA HUMANA E O MEIO AMBIENTE
+n1=8	n2=7.5	n3=8	n4=8	n5=9	n6=8	n7=0	n8=0	
+
+Avaliador = Mariana Arndt de Souza
+Projeto = REDES SOCIAIS, POLITICA E A DEMOCRACIA BRASILEIRA
+n1=9	n2=7	n3=7	n4=6	n5=5	n6=0	n7=0	n8=0	
+
+Avaliador = Ivan Claudino Herrmann
+Projeto = REDES SOCIAIS, POLITICA E A DEMOCRACIA BRASILEIRA
+n1=9	n2=8	n3=8	n4=8	n5=9	n6=10	n7=0	n8=0	
+
+Avaliador = Guilherme Cunha Princival
+Projeto = REDES SOCIAIS, POLITICA E A DEMOCRACIA BRASILEIRA
+n1=9	n2=7	n3=5	n4=7.5	n5=6	n6=0	n7=0	n8=0	
+
+Avaliador = Guilherme Cunha Princival
+Projeto = O DILEMA DAS REDES SOCIAIS E COMO INFLUENCIAM NO COMPORTAMENTO HUMANO
+n1=9	n2=5	n3=5	n4=5	n5=9	n6=0	n7=0	n8=0	
+
+Avaliador = Luciano Rivas Costa
+Projeto = O DILEMA DAS REDES SOCIAIS E COMO INFLUENCIAM NO COMPORTAMENTO HUMANO
+n1=10	n2=9	n3=8	n4=6	n5=10	n6=0	n7=0	n8=0	
+
+Avaliador = Josiane Paula Maltauro lopes
+Projeto = O DILEMA DAS REDES SOCIAIS E COMO INFLUENCIAM NO COMPORTAMENTO HUMANO
+n1=10	n2=9	n3=7	n4=9	n5=10	n6=10	n7=0	n8=0	
+
+Avaliador = Bianca Ferreira Duarte
+Projeto = INTELIGÊNCIA ARTIFICIAL (IA) NO AGRONEGÓCIO
+n1=8	n2=8	n3=8	n4=9	n5=8	n6=9	n7=0	n8=0	
+
+Avaliador = Carlos Antônio dos Santos
+Projeto = INTELIGÊNCIA ARTIFICIAL (IA) NO AGRONEGÓCIO
+n1=9	n2=9	n3=10	n4=9	n5=10	n6=9	n7=0	n8=0	
+
+Avaliador = André Felipe Queiroz
+Projeto = INTELIGÊNCIA ARTIFICIAL (IA) NO AGRONEGÓCIO
+n1=10	n2=9	n3=9	n4=10	n5=10	n6=10	n7=0	n8=0	
+
+Avaliador = Douglas Legramante
+Projeto = ANALISE DA EXPOSIÇÃO EXCESSIVA A JOGOS ELETRONICOS
+n1=9	n2=8	n3=8	n4=8	n5=9	n6=8	n7=0	n8=0	
+
+Avaliador = Thaynara Dedé Andrade Brito
+Projeto = ANALISE DA EXPOSIÇÃO EXCESSIVA A JOGOS ELETRONICOS
+n1=7	n2=7	n3=7.5	n4=7.5	n5=8	n6=8	n7=0	n8=0	
+
+Avaliador = Leonardo Mauro Pereira Moraes
+Projeto = ANALISE DA EXPOSIÇÃO EXCESSIVA A JOGOS ELETRONICOS
+n1=9	n2=7.5	n3=7.5	n4=7	n5=8	n6=0	n7=0	n8=0	
+
+Avaliador = Joelson Fernandes
+Projeto = USO DE INTELIGÊNCIA ARTIFICIAL EM SEGURANÇA DA INFORMAÇÃO
+n1=8	n2=10	n3=8	n4=9	n5=9	n6=9	n7=0	n8=0	
+
+Avaliador = Leonardo Mauro Pereira Moraes
+Projeto = USO DE INTELIGÊNCIA ARTIFICIAL EM SEGURANÇA DA INFORMAÇÃO
+n1=7	n2=7	n3=8	n4=6	n5=7	n6=0	n7=0	n8=0	
+
+Avaliador = Celso Soares Costa
+Projeto = USO DE INTELIGÊNCIA ARTIFICIAL EM SEGURANÇA DA INFORMAÇÃO
+n1=5	n2=6	n3=6	n4=5	n5=7	n6=6	n7=0	n8=0	
+
+Avaliador = Ivan Claudino Herrmann
+Projeto = AVALIAÇÃO ENTRE OS DISTURBIOS DO SONO E O USO DAS REDES SOCIAIS NO CONTEXTO PANDÊMICO DOS ALUNOS DO INSTITUTO FEDERAL
+n1=10	n2=9	n3=9	n4=9	n5=8	n6=10	n7=0	n8=0	
+
+Avaliador = Josiane Paula Maltauro lopes
+Projeto = AVALIAÇÃO ENTRE OS DISTURBIOS DO SONO E O USO DAS REDES SOCIAIS NO CONTEXTO PANDÊMICO DOS ALUNOS DO INSTITUTO FEDERAL
+n1=9	n2=7	n3=7	n4=7	n5=7	n6=7	n7=0	n8=0	
+
+Avaliador = Guilherme Cunha Princival
+Projeto = AVALIAÇÃO ENTRE OS DISTURBIOS DO SONO E O USO DAS REDES SOCIAIS NO CONTEXTO PANDÊMICO DOS ALUNOS DO INSTITUTO FEDERAL
+n1=8	n2=7	n3=5	n4=7	n5=5	n6=0	n7=0	n8=0	
+
+Avaliador = Robson Soares Silva
+Projeto = SISRED – FACILITANDO A INTERAÇÃO ENTRE PROFESSOR E ALUNO PARA COMPOSIÇÕES TEXTUAIS
+n1=10	n2=10	n3=10	n4=10	n5=10	n6=10	n7=10	n8=0	
+
+Avaliador = Lucas de Souza Rodrigues
+Projeto = SISRED – FACILITANDO A INTERAÇÃO ENTRE PROFESSOR E ALUNO PARA COMPOSIÇÕES TEXTUAIS
+n1=9	n2=8	n3=8	n4=8	n5=8	n6=9	n7=10	n8=0	
+
+Avaliador = Guilherme Cunha Princival
+Projeto = SISRED – FACILITANDO A INTERAÇÃO ENTRE PROFESSOR E ALUNO PARA COMPOSIÇÕES TEXTUAIS
+n1=7.5	n2=7	n3=8	n4=7	n5=7.5	n6=0	n7=7.5	n8=0	
+
+Avaliador = Almir José Weinfortner
+Projeto = PROCRASTINAÇÃO ACADÊMICA
+n1=10	n2=10	n3=9	n4=9	n5=8	n6=10	n7=0	n8=0	
+
+Avaliador = Nágila Seidenstucker
+Projeto = PROCRASTINAÇÃO ACADÊMICA
+n1=9	n2=7.5	n3=8	n4=8	n5=7	n6=0	n7=0	n8=0	
+
+Avaliador = Ana Carolina Bezerra dos Santos
+Projeto = PROCRASTINAÇÃO ACADÊMICA
+n1=10	n2=9	n3=9	n4=10	n5=9	n6=0	n7=0	n8=0	
+
+Avaliador = Joelson Fernandes
+Projeto = COMO A MISOFONIA PODE AFETAR A VIDA SOCIAL DAQUELES QUE PADECEM DA MESMA
+n1=10	n2=10	n3=10	n4=10	n5=10	n6=10	n7=0	n8=0	
+
+Avaliador = Vânia Tomazelli de Lima
+Projeto = COMO A MISOFONIA PODE AFETAR A VIDA SOCIAL DAQUELES QUE PADECEM DA MESMA
+n1=9	n2=10	n3=10	n4=9	n5=10	n6=10	n7=0	n8=0	
+
+Avaliador = Tatiana Kleinübing
+Projeto = COMO A MISOFONIA PODE AFETAR A VIDA SOCIAL DAQUELES QUE PADECEM DA MESMA
+n1=10	n2=10	n3=10	n4=10	n5=10	n6=10	n7=0	n8=0	
+
+Avaliador = Alexandra Maciel Riquelme
+Projeto = TRANSTORNO DE ESTRESSE PÓS-TRAUMÁTICO (TEPT) : E COMO ESSE TRANSTORNO AFETA A VIDA DE UM INDIVÍDUO
+n1=9	n2=8	n3=8	n4=9	n5=8	n6=0	n7=0	n8=0	
+
+Avaliador = Taís Helena de Araujo Rodrigues
+Projeto = TRANSTORNO DE ESTRESSE PÓS-TRAUMÁTICO (TEPT) : E COMO ESSE TRANSTORNO AFETA A VIDA DE UM INDIVÍDUO
+n1=9	n2=9	n3=8	n4=8	n5=8	n6=0	n7=0	n8=0	
+
+Avaliador = Marilyn Aparecida Errobidarte de Matos
+Projeto = TRANSTORNO DE ESTRESSE PÓS-TRAUMÁTICO (TEPT) : E COMO ESSE TRANSTORNO AFETA A VIDA DE UM INDIVÍDUO
+n1=5	n2=5	n3=5	n4=5	n5=5	n6=3	n7=0	n8=0	
+
+Avaliador = Taís Helena de Araujo Rodrigues
+Projeto = A INFLUÊNCIA DAS MÍDIAS SOCIAIS NOS TRANSTORNOS ALIMENTARES, NA AUTOIMAGEM E AUTOESTIMA EM ADOLESCENTES
+n1=10	n2=8	n3=8	n4=8	n5=8	n6=0	n7=0	n8=0	
+
+Avaliador = Vânia Tomazelli de Lima
+Projeto = A INFLUÊNCIA DAS MÍDIAS SOCIAIS NOS TRANSTORNOS ALIMENTARES, NA AUTOIMAGEM E AUTOESTIMA EM ADOLESCENTES
+n1=8	n2=8	n3=9	n4=8	n5=8	n6=9	n7=0	n8=0	
+
+Avaliador = Guilherme Ramos Demetrio Ferreira
+Projeto = A INFLUÊNCIA DAS MÍDIAS SOCIAIS NOS TRANSTORNOS ALIMENTARES, NA AUTOIMAGEM E AUTOESTIMA EM ADOLESCENTES
+n1=8	n2=7	n3=7.5	n4=7	n5=7	n6=0	n7=0	n8=0	
+
+Avaliador = Jocenir Maria Miranda Obregão Anhezini
+Projeto = COMO O AÇÚCAR FUNCIONA EM NOSSO ORGANISMO
+n1=7	n2=7.5	n3=7	n4=8	n5=7.5	n6=0	n7=0	n8=0	
+
+Avaliador = Márlon Pereira
+Projeto = COMO O AÇÚCAR FUNCIONA EM NOSSO ORGANISMO
+n1=7.5	n2=7.5	n3=8	n4=7	n5=7.5	n6=7.5	n7=0	n8=0	
+
+Avaliador = Nara Cristina Chiarini Pena Barbosa
+Projeto = COMO O AÇÚCAR FUNCIONA EM NOSSO ORGANISMO
+n1=7.5	n2=8	n3=7.5	n4=7.5	n5=7.5	n6=0	n7=0	n8=0	
+
+Avaliador = Jocinei Lopes Araujo
+Projeto = DIFICULDADES DE APRENDIZAGEM NA ESCOLA: DISLEXIA
+n1=9	n2=8	n3=8	n4=8	n5=10	n6=0	n7=0	n8=0	
+
+Avaliador = Ana Paula Macedo Cartapatti Kaimoti
+Projeto = DIFICULDADES DE APRENDIZAGEM NA ESCOLA: DISLEXIA
+n1=10	n2=9	n3=10	n4=9	n5=10	n6=10	n7=0	n8=0	
+
+Avaliador = Ivan Claudino Herrmann
+Projeto = DIFICULDADES DE APRENDIZAGEM NA ESCOLA: DISLEXIA
+n1=10	n2=10	n3=10	n4=10	n5=10	n6=10	n7=0	n8=0	
+
+Avaliador = Edivaldo Geffer
+Projeto = A VOLTA AO “NOVO NORMAL”: DESAFIOS SOCIAIS E EMOCIONAIS DE CRIANÇAS E ADOLESCENTES NO RETORNO AO ENSINO PRESENCIAL
+n1=10	n2=9	n3=10	n4=8	n5=8	n6=0	n7=0	n8=0	
+
+Avaliador = Almir José Weinfortner
+Projeto = A VOLTA AO “NOVO NORMAL”: DESAFIOS SOCIAIS E EMOCIONAIS DE CRIANÇAS E ADOLESCENTES NO RETORNO AO ENSINO PRESENCIAL
+n1=10	n2=10	n3=10	n4=10	n5=10	n6=10	n7=0	n8=0	
+
+Avaliador = Ivan Claudino Herrmann
+Projeto = A VOLTA AO “NOVO NORMAL”: DESAFIOS SOCIAIS E EMOCIONAIS DE CRIANÇAS E ADOLESCENTES NO RETORNO AO ENSINO PRESENCIAL
+n1=9	n2=9	n3=9	n4=9	n5=10	n6=10	n7=0	n8=0	
+
