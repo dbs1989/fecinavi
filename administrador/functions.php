@@ -29,7 +29,7 @@
 	//deletar o administrador
 	function delete($id = null) {
 		global $administrador;
-		$administrador = removeAvalAdmin('administrador',$id);
+		$administrador = remove('administrador','fk_usuario',$id);
 		header('location: index.php');	exit;
 	}
 
