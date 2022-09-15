@@ -1,16 +1,12 @@
 <?php
 	require_once('functions.php');
-	
+
 	if(!empty($_SESSION['tipo'])){
 		findUsuario($_SESSION['id_user']);
 		if(!empty($_POST['projeto'])){
 			$projeto = $_POST['projeto'];
 			getItens($projeto["'id_projeto'"]);
 		}
-?>
-
-<?php include(HEADER_TEMPLATE); 
-header('location: '.BASEURL.'index.php');
 ?>
 <script src="../cdn/js/avaliacao.js" type="text/javascript"></script>
 <script>
