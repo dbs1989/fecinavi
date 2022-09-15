@@ -7,6 +7,7 @@
 			$projeto = $_POST['projeto'];
 			getItens($projeto["'id_projeto'"]);
 		}
+		include(HEADER_TEMPLATE);
 ?>
 <script src="../cdn/js/avaliacao.js" type="text/javascript"></script>
 <script>

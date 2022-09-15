@@ -51,7 +51,7 @@
 		global $autores;
 		$usuarios = projeto_usuario($id);
 		$i = 0;
-		foreach ($usuarios as $usuario){ 
+		foreach ($usuarios as $usuario){
 			if($usuario['tipo']==3){
 				$i++;
 				$autores[$i] = $usuario;
@@ -95,7 +95,7 @@
 			}
 		}
 	}
-	
+
 	function getArea($id=null){
 		global $area;
 		$area = findAnyThing('area','id_area',$id);
