@@ -29,8 +29,8 @@
 	function add() {
 		if (!empty($_POST['avaliador'])) {
 			$avaliador = $_POST['avaliador'];
-			$avaliador["'senha'"] = password_hash('mudar123', PASSWORD_DEFAULT);
 			$areas = array_pop($avaliador);
+			$avaliador["'senha'"] = password_hash('mudar123', PASSWORD_DEFAULT);
 			$avaliador["'fk_usuario'"] = pegarID($avaliador["'fk_usuario'"]);
 			save('avaliador', $avaliador);
 			$area_avaliador["'fk_usuario'"] = $avaliador["'fk_usuario'"];

@@ -338,7 +338,7 @@ function pegarAreaAval($id = null){
 	$database = open_database();
 	$found = null;
 	try {
-		$sql = "SELECT nome FROM area as a join area_avaliador as av ON av.fk_area = a.id_area WHERE av.fk_usuario = " . $id;
+		$sql = "SELECT id_area, nome FROM area as a join area_avaliador as av ON av.fk_area = a.id_area WHERE av.fk_usuario = " . $id;
 		$result = $database->query($sql);
 		if ($result->num_rows > 0) {
 			$found = $result->fetch_all(MYSQLI_ASSOC);

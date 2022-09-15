@@ -7,6 +7,7 @@
 	$totalAval = null;
 	$orientador = null;
 	$area = null;
+	$areas = null;
 	$usuarios = null;
 	$autores = null;
 	session_start();
@@ -30,7 +31,7 @@
 	//busca a area
 	function getAreas(){
 		global $areas;
-		$areas = find_all('area');
+		$areas = pegarAreaAval($_SESSION['id_user']);
 	}
 
 	//busca o nome e id do avaliador
