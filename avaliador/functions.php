@@ -51,8 +51,8 @@
 
 	//deletar o avaliador
 	function delete($id = null) {
-		removeAvalarea($id);
-		removeAvalAdmin('avaliador',$id);
+		remove('area_avaliador','fk_usuario',$id);
+		remove('avaliador','fk_usuario',$id);
 		header('location: index.php');	exit;
 	}
 

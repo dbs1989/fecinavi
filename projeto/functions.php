@@ -57,7 +57,7 @@
 				header('location: edit.php?id='.$id);exit;
 			}
 			update('projeto', $id, $projeto);
-			apagaProjetoUsuario('projeto_usuario',$id);
+			remove('projeto_usuario','fk_usuario',$id);
 			saveProjetoUsuario($estudante1,$estudante2,$estudante3,$orientador1,$orientador2,$id);
 			header('location: index.php');exit;
 		} else if (isset($_GET['id'])) {

@@ -700,9 +700,6 @@ function update($table = null, $id = 0, $data = null) {
 	}
 	close_database($database);
 }
-
-
-
 //remover o registro do banco
 function remove( $table = null, $atributo = null, $id = null ) {
 	$database = open_database();
@@ -710,57 +707,6 @@ function remove( $table = null, $atributo = null, $id = null ) {
 		if ($id) {
 			$sql = "DELETE FROM " . $table . " WHERE ".$atributo." = " . $id;
 			$result = $database->query($sql);
-			if ($result = $database->query($sql)) {
-				$_SESSION['message'] = "Registro Removido com Sucesso.";
-				$_SESSION['type'] = 'success';
-			}
-		}
-	} catch (Exception $e) {
-		$_SESSION['message'] = $e->GetMessage();
-		$_SESSION['type'] = 'danger';
-	}
-	close_database($database);
-}
-
-function apagaProjetoUsuario( $table = null, $id = null ) {
-	$database = open_database();
-	try {
-		if ($id) {
-			$sql = "DELETE FROM " . $table . " WHERE fk_projeto = " . $id;
-			$result = $database->query($sql);
-			if ($result = $database->query($sql)) {
-				$_SESSION['message'] = "Registro Removido com Sucesso.";
-				$_SESSION['type'] = 'success';
-			}
-		}
-	} catch (Exception $e) {
-		$_SESSION['message'] = $e->GetMessage();
-		$_SESSION['type'] = 'danger';
-	}
-	close_database($database);
-}
-function removeAvalAdmin($table,$id = null) {
-	$database = open_database();
-	try {
-		if ($id) {
-			$sql = "DELETE FROM ".$table." WHERE fk_usuario = " . $id;
-			if ($result = $database->query($sql)) {
-				$_SESSION['message'] = "Registro Removido com Sucesso.";
-				$_SESSION['type'] = 'success';
-			}
-		}
-	} catch (Exception $e) {
-		$_SESSION['message'] = $e->GetMessage();
-		$_SESSION['type'] = 'danger';
-	}
-	close_database($database);
-}
-
-function removeAvalArea($id = null) {
-	$database = open_database();
-	try {
-		if ($id) {
-			$sql = "DELETE FROM area_avaliador WHERE fk_usuario = " . $id;
 			if ($result = $database->query($sql)) {
 				$_SESSION['message'] = "Registro Removido com Sucesso.";
 				$_SESSION['type'] = 'success';

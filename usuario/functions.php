@@ -65,7 +65,7 @@
 	//deleta o usuario
 	function delete($id = null) {
 		global $usuario;
-		$usuario = remove('usuario', $id);
+		$usuario = remove('usuario', 'id_usuario', $id);
 		header('location: usuarios.php');	exit;
 	}
 
