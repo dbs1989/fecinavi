@@ -525,8 +525,9 @@ function notasTodos(){
 
 	try {
 		$found = array();
-		$sql = "SELECT fk_area,a.fk_projeto, p.nivel,p.convidado, avg(n1) as m1, avg(n2) as m2, avg(n3) as m3, avg(n4) as m4, avg(n5) as m5,
-						avg(n6) as m6, avg(n7) as m7
+		//medio, area 1 = ciências biologicas e da saúde, sem resultado
+		$sql = "SELECT fk_area,a.fk_projeto, p.nivel,p.convidado, MIN(n10) as res, avg(n1) as m1, avg(n2) as m2, avg(n3) as m3,
+						avg(n4) as m4, avg(n5) as m5,	avg(n6) as m6, avg(n7) as m7, avg(n8) as m8, avg(n9) as m9
 						from avaliacao as a inner join projeto as p on a.fk_projeto = p.id_projeto
 						where p.fk_area = 1 AND p.nivel = 2 AND p.convidado = 0 GROUP BY a.fk_projeto";
 		$result = $database->query($sql);
@@ -535,8 +536,9 @@ function notasTodos(){
 				array_push($found, $row);
 			}
 		}
-		$sql = "SELECT fk_area,a.fk_projeto, p.nivel,p.convidado, avg(n1) as m1, avg(n2) as m2, avg(n3) as m3, avg(n4) as m4, avg(n5) as m5,
-						avg(n6) as m6, avg(n7) as m7
+			//médio, area 2 = Ciências Exatas e da Terra, sem resultado
+		$sql = "SELECT fk_area,a.fk_projeto, p.nivel,p.convidado, MIN(n10) as res, avg(n1) as m1, avg(n2) as m2, avg(n3) as m3,
+						avg(n4) as m4, avg(n5) as m5,	avg(n6) as m6, avg(n7) as m7, avg(n8) as m8, avg(n9) as m9
 						from avaliacao as a inner join projeto as p on a.fk_projeto = p.id_projeto
 						where p.fk_area = 2 AND p.nivel = 2  AND p.convidado = 0 GROUP BY a.fk_projeto";
 		$result = $database->query($sql);
@@ -545,38 +547,42 @@ function notasTodos(){
 				array_push($found, $row);
 			}
 		}
-		$sql = "SELECT fk_area,a.fk_projeto, p.nivel,p.convidado, avg(n1) as m1, avg(n2) as m2, avg(n3) as m3, avg(n4) as m4, avg(n5) as m5,
-						avg(n6) as m6, avg(n7) as m7
+		//médio, area 3 = Ciências Humanas, Sociais Aplicadas e Linguística, sem resultado
+		$sql = "SELECT fk_area,a.fk_projeto, p.nivel,p.convidado, MIN(n10) as res, avg(n1) as m1, avg(n2) as m2, avg(n3) as m3,
+						avg(n4) as m4, avg(n5) as m5,	avg(n6) as m6, avg(n7) as m7, avg(n8) as m8, avg(n9) as m9
 						from avaliacao as a inner join projeto as p on a.fk_projeto = p.id_projeto
-						where p.fk_area = 3 AND p.nivel = 2 AND p.convidado = 0  GROUP BY a.fk_projeto";
+						where p.fk_area = 3 AND p.nivel = 2 AND p.convidado = 0 GROUP BY a.fk_projeto";
 		$result = $database->query($sql);
 		if ($result->num_rows > 0) {
 			while ($row = $result->fetch_assoc()) {
 				array_push($found, $row);
 			}
 		}
-		$sql = "SELECT fk_area,a.fk_projeto, p.nivel,p.convidado, avg(n1) as m1, avg(n2) as m2, avg(n3) as m3, avg(n4) as m4, avg(n5) as m5,
-						avg(n6) as m6, avg(n7) as m7
+		//médio, area 4 = Ciências Agrárias e Engenharias, sem resultado
+		$sql = "SELECT fk_area,a.fk_projeto, p.nivel,p.convidado, MIN(n10) as res, avg(n1) as m1, avg(n2) as m2, avg(n3) as m3,
+						avg(n4) as m4, avg(n5) as m5,	avg(n6) as m6, avg(n7) as m7, avg(n8) as m8, avg(n9) as m9
 						from avaliacao as a inner join projeto as p on a.fk_projeto = p.id_projeto
-						where p.fk_area = 4 AND p.nivel = 2 AND p.convidado = 0  GROUP BY a.fk_projeto";
+						where p.fk_area = 4 AND p.nivel = 2 AND p.convidado = 0 GROUP BY a.fk_projeto";
 		$result = $database->query($sql);
 		if ($result->num_rows > 0) {
 			while ($row = $result->fetch_assoc()) {
 				array_push($found, $row);
 			}
 		}
-		$sql = "SELECT fk_area,a.fk_projeto, p.nivel,p.convidado, avg(n1) as m1, avg(n2) as m2, avg(n3) as m3, avg(n4) as m4, avg(n5) as m5,
-						avg(n6) as m6, avg(n7) as m7
+		//médio, area 5 = Multidisciplinar, sem resultado
+		$sql = "SELECT fk_area,a.fk_projeto, p.nivel,p.convidado, MIN(n10) as res, avg(n1) as m1, avg(n2) as m2, avg(n3) as m3,
+						avg(n4) as m4, avg(n5) as m5,	avg(n6) as m6, avg(n7) as m7, avg(n8) as m8, avg(n9) as m9
 						from avaliacao as a inner join projeto as p on a.fk_projeto = p.id_projeto
-						where p.fk_area = 5 AND p.nivel = 2 AND p.convidado = 0  GROUP BY a.fk_projeto";
+						where p.fk_area = 5 AND p.nivel = 2 AND p.convidado = 0 GROUP BY a.fk_projeto";
 		$result = $database->query($sql);
 		if ($result->num_rows > 0) {
 			while ($row = $result->fetch_assoc()) {
 				array_push($found, $row);
 			}
 		}
-		$sql = "SELECT fk_area,a.fk_projeto, p.nivel,p.convidado, avg(n1) as m1, avg(n2) as m2, avg(n3) as m3, avg(n4) as m4, avg(n5) as m5,
-						avg(n6) as m6, avg(n7) as m7
+		//fundamental geral
+		$sql = "SELECT fk_area,a.fk_projeto, p.nivel,p.convidado, MIN(n10) as res, avg(n1) as m1, avg(n2) as m2, avg(n3) as m3,
+						avg(n4) as m4, avg(n5) as m5,	avg(n6) as m6, avg(n7) as m7, avg(n8) as m8, avg(n9) as m9
 						from avaliacao as a inner join projeto as p on a.fk_projeto = p.id_projeto
 						where p.nivel = 1 AND p.convidado = 0  GROUP BY a.fk_projeto";
 		$result = $database->query($sql);
@@ -585,8 +591,9 @@ function notasTodos(){
 				array_push($found, $row);
 			}
 		}
-		$sql = "SELECT fk_area,a.fk_projeto, p.nivel,p.convidado, avg(n1) as m1, avg(n2) as m2, avg(n3) as m3, avg(n4) as m4, avg(n5) as m5,
-						avg(n6) as m6, avg(n7) as m7
+		//convidado
+		$sql = "SELECT fk_area,a.fk_projeto, p.nivel,p.convidado, MIN(n10) as res, avg(n1) as m1, avg(n2) as m2, avg(n3) as m3,
+						avg(n4) as m4, avg(n5) as m5,	avg(n6) as m6, avg(n7) as m7, avg(n8) as m8, avg(n9) as m9
 						from avaliacao as a inner join projeto as p on a.fk_projeto = p.id_projeto
 						where p.convidado = 1  GROUP BY a.fk_projeto";
 		$result = $database->query($sql);

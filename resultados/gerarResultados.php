@@ -6,64 +6,111 @@
 	$resultado = null;
 	$resultadoTodos = notasTodos();
 
-	 function compararNotas($a, $b)
-    {
+	 function compararNotas($a, $b){
 		if($a['nota']==$b['nota']){
-			if($a['video']==$b['video']){
+			if($a['banner']==$b['banner']){
+				if($a['resumo']==$b['resumo']){
+					if($a['relatorio']==$b['relatorio']){
+						return $a['diario']<$b['diario'];
+					}
+					return $a['relatorio']<$b['relatorio'];
+				}
 				return $a['resumo']<$b['resumo'];
 			}
-			return $a['video']<$b['video'];
+			return $a['banner']<$b['banner'];
 		}
         return $a['nota']< $b['nota'];
     }
 
-     function melhorVideo($a, $b)
-    {
-			if($a['video']==$b['video']){
+     function melhorBanner($a, $b){
+			if($a['banner']==$b['banner']){
 				if($a['nota']==$b['nota']){
+					if($a['resumo']==$b['resumo']){
+						if($a['relatorio']==$b['relatorio']){
+							return $a['diario']<$b['diario'];
+						}
+						return $a['relatorio']<$b['relatorio'];
+					}
 					return $a['resumo']<$b['resumo'];
 				}
 				return $a['nota']<$b['nota'];
 			}
-      return $a['video']< $b['video'];
+      return $a['banner']< $b['banner'];
     }
 
-     function melhorAmbiental($a, $b)
-    {
+		function melhorRelatorio($a, $b){
+		 if($a['relatorio']==$b['relatorio']){
+			 if($a['nota']==$b['nota']){
+				 if($a['banner']==$b['banner']){
+					 if($a['resumo']==$b['resumo']){
+						 return $a['diario']<$b['diario'];
+					 }
+					 return $a['resumo']<$b['resumo'];
+				 }
+				 return $a['banner']<$b['banner'];
+			 }
+			 return $a['nota']<$b['nota'];
+		 }
+		 return $a['relatorio']< $b['relatorio'];
+	 }
+
+     function melhorAmbiental($a, $b){
 		if($a['ambiental']==$b['ambiental']){
-			if($a['video']==$b['video']){
+			if($a['banner']==$b['banner']){
+				if($a['resumo']==$b['resumo']){
+					if($a['relatorio']==$b['relatorio']){
+						return $a['diario']<$b['diario'];
+					}
+					return $a['relatorio']<$b['relatorio'];
+				}
 				return $a['resumo']<$b['resumo'];
 			}
-			return $a['video']<$b['video'];
+			return $a['banner']<$b['banner'];
 		}
         return $a['ambiental']< $b['ambiental'];
     }
 
-		function melhorTecnologico($a, $b)
-	 {
+		function melhorTecnologico($a, $b){
 	 if($a['tecnologico']==$b['tecnologico']){
-		 if($a['video']==$b['video']){
+		 if($a['banner']==$b['banner']){
+			 if($a['resumo']==$b['resumo']){
+				 if($a['relatorio']==$b['relatorio']){
+					 return $a['diario']<$b['diario'];
+				 }
+				 return $a['relatorio']<$b['relatorio'];
+			 }
 			 return $a['resumo']<$b['resumo'];
 		 }
-		 return $a['video']<$b['video'];
+		 return $a['banner']<$b['banner'];
 	 }
 			 return $a['tecnologico']< $b['tecnologico'];
 	 }
 
-	 function melhorConvidado($a, $b)
-	{
+	 function melhorConvidado($a, $b){
 	if($a['convidado']==$b['convidado']){
-		if($a['video']==$b['video']){
-			return $a['resumo']<$b['resumo'];
+		if($a['nota']==$b['nota']){
+			if($a['banner']==$b['banner']){
+				if($a['resumo']==$b['resumo']){
+					if($a['relatorio']==$b['relatorio']){
+						return $a['diario']<$b['diario'];
+					}
+					return $a['relatorio']<$b['relatorio'];
+				}
+				return $a['resumo']<$b['resumo'];
+			}
+			return $a['banner']<$b['banner'];
 		}
-		return $a['video']<$b['video'];
+        return $a['nota']< $b['nota'];
 	}
-			return $a['convidado']< $b['convidado'];
-	}
+	return $a['convidado']<$b['convidado'];
+}
+
 	foreach($resultadoTodos as $res){
 		$soma = 0;
-		$somavideo=0;
+		$relatorio=0;
 		$resumo = 0;
+		$banner = 0;
+		$diario = 0;
 		foreach($res as $key => $valor){
 			if($key=="fk_area"){
 				$resultado['fk_area'] = $valor;
@@ -73,28 +120,37 @@
 				$resultado['nivel'] = $valor;
 			}else if($key=="convidado"){
 				$resultado['convidado'] = $valor;
+			}else if($key=="res"){
+				$resultado['res'] = $valor;
 			}else{
-				if($key!="m6" && $key!="m7" ){
+				if($key!="m8" && $key!="m9" ){
 					$soma += $valor;
 				}
 				if($key=="m4"){
-					$resumo += $valor;
+					$banner += $valor;
 				}
 				if($key=="m5"){
-					$somavideo += $valor;
+					$resumo += $valor;
 				}
-
 				if($key=="m6"){
-					$resultado['ambiental'] = $valor;
+					$relatorio += $valor;
 				}
 				if($key=="m7"){
+					$diario += $valor;
+				}
+				if($key=="m8"){
+					$resultado['ambiental'] = $valor;
+				}
+				if($key=="m9"){
 					$resultado['tecnologico'] = $valor;
 				}
 			}
 		}
-		$resultado['nota'] = $soma/5;
-		$resultado['video'] = $somavideo;
+		$resultado['nota'] = $soma/7;
+		$resultado['relatorio'] = $relatorio;
 		$resultado['resumo'] = $resumo;
+		$resultado['banner'] = $banner;
+		$resultado['diario'] = $diario;
 		$resultado['usuarios'] = projeto_usuario($resultado['fk_projeto']);
 		$pesquisa =  findAnything('projeto','id_projeto',$resultado['fk_projeto']);
 		$resultado['titulo'] = $pesquisa['titulo'];
@@ -103,8 +159,10 @@
 
 	uasort($resultadoFinal,'compararNotas');
 	$_SESSION['resultado'] = $resultadoFinal;
-	uasort($resultadoFinal,'melhorVideo');
-	$_SESSION['video'] = $resultadoFinal;
+	uasort($resultadoFinal,'melhorBanner');
+	$_SESSION['banner'] = $resultadoFinal;
+	uasort($resultadoFinal,'melhorRelatorio');
+	$_SESSION['relatorio'] = $resultadoFinal;
 	uasort($resultadoFinal,'melhorAmbiental');
 	$_SESSION['ambiental'] = $resultadoFinal;
 	uasort($resultadoFinal,'melhorTecnologico');

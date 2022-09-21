@@ -3,16 +3,12 @@
 <?php include(HEADER_TEMPLATE); ?>
 <?php
 	unset($_SESSION['resultado']);
-	if(empty($_SESSION['tipo'])){
-
-
-?>
+	?>
 	<div class="container">
 		<?php
-		echo password_hash("mudar123", PASSWORD_DEFAULT);
 			if (!empty($_SESSION['type'])) {
 		?>
-		<div class="alert alert-<?php echo $_SESSION['type']; ?> alert-dismissible" role="alert">			
+		<div class="alert alert-<?php echo $_SESSION['type']; ?> alert-dismissible" role="alert">
 			<button type="button" class="close" data-dismiss="alert" aria-label="Close">
 				<span aria-hidden="true">&times;</span>
 			</button>
@@ -27,18 +23,13 @@
 		?>
 		<?php } ?>
 	</div>
+	<?php
+	if(empty($_SESSION['tipo'])){
+
+
+?>
+
 <!--
-	<div class="container-fluid text-center">
-		<h2>RESULTADOS FECIFRON 2020</h2>
-		<img src="imagens/resultados.png" width="100%">
-	</div>
-	<div class="container text-center text-white bg-success">
-		<h2>CERTIFICADOS</h2>
-		<a href="https://drive.google.com/drive/folders/1nC_rXi2Yn1EBP7Nq0OkpFtxkhvk6kZcB?usp=sharing"><button type="button" class="btn btn-success "><h3> Participação</h3></button></a>
-		<a href="https://drive.google.com/drive/folders/11HQgUNxMhSRcZCA_CQoWUA5yTauial0k?usp=sharing"><button type="button" class="btn btn-success "><h3> Premiação</h3></button></a>
-		<a href="https://drive.google.com/drive/folders/1AXsYOLsskC_KIM0AlLAzsi5C0jQqmbFX?usp=sharing"><button type="button" class="btn btn-success "><h3> Credencial</h3></button></a>
-	</div>
--->
 <div class="container jumbotron text-center font-weight-bold">
 <h3>
 		A equipe da FECIFRON 2021 agradece a todas e todos que participaram e contribuíram para o sucesso da feira.<br><br>
@@ -176,7 +167,7 @@
 </div>
 <a href="https://drive.google.com/drive/folders/1lNzbLvKvk3xhDBnfvpRaRrVC4Eo3MaLz?usp=sharing" target="_blank"><button type="button" class="btn btn-primary btn-lg btn-block">Baixe aqui a sua Credencial </button></a>
 </div>
-
+-->
 
 
 
