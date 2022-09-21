@@ -8,13 +8,15 @@
 		if(!empty($usuario)){
 			$avaliador = findAnyThing('avaliador','fk_usuario',$usuario['id_usuario']);
 			if(!empty($avaliador)){
-				if($avaliador['senha'] === password_hash($login["'senha'"], PASSWORD_DEFAULT)){
+				if(password_verify($login["'senha'"],$administrador['senha'])){
 					$_SESSION['tipo']=2;
 					$_SESSION['user']=$usuario['nome'];
 					$_SESSION['id_user'] = $usuario['id_usuario'];
+					$_SESSION['type'] = "success";
+				 $_SESSION['msgNome'] = "Login realizado";
 				}else{
 				    $_SESSION['type'] = "danger";
-	                $_SESSION['msgNome'] = "Senha não confere";
+	          $_SESSION['msgNome'] = "Senha não confere";
 
 				}
 			}
@@ -24,15 +26,17 @@
 					$_SESSION['tipo']=1;
 					$_SESSION['user']=$usuario['nome'];
 					$_SESSION['id_user'] = $usuario['id_usuario'];
+					$_SESSION['type'] = "success";
+				 $_SESSION['msgNome'] = "Login realizado";
 				}else{
 				    $_SESSION['type'] = "danger";
-	                $_SESSION['msgNome'] = "Senha não confere";
+	         $_SESSION['msgNome'] = "Senha não confere";
 
 				}
 			}
 		}else{
 		    $_SESSION['type'] = "danger";
-	        $_SESSION['msgNome'] = "E-mail não encontrado";
+	      $_SESSION['msgNome'] = "E-mail não encontrado";
 		}
 	}
 	header("Location: index.php");exit;
