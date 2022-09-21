@@ -40,6 +40,7 @@
 			<thead>
 				<tr>
 					<th class="actions text-center">Título</th>
+					<th class="actions text-center">QrCode</th>
 					<th class="actions text-center">Área</th>
 					<th class="actions text-center">Nível</th>
 					<th class="actions text-center">Eixo</th>
@@ -50,7 +51,11 @@
 				<?php if ($projetos) : ?>
 				<?php foreach ($projetos as $projeto) : ?>
 				<tr>
+
 					<td><?php echo $projeto['titulo']; ?></td>
+					<td class="actions text-center">
+					<a href="gerarQrCode.php?id=<?php echo $projeto['id_projeto']; ?>" target="_blank" class="btn btn-sm btn-info"><i class="fa fa-pencil"></i> QrCode</a>
+				</td>
 					<td><?php echo $projeto['nome']; ?></td>
 					<td>
 						<?php
