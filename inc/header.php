@@ -28,10 +28,8 @@
 							<ul class="flex-md-column navbar-nav justify-content-between">
 								<a class="navbar-brand" href="<?php echo BASEURL; ?>"><i class='fas fa-home' style='font-size:36px'></i></a>
 								<li class="nav-item dropdown">
-									<a class="nav-link dropdown-toggle nav-text" href="#" id="navbardrop" data-toggle="dropdown"> <?php echo "Olá, ".$_SESSION['user']; ?> </a>
-									<div class="dropdown-menu">
-										<a class="dropdown-item" href="<?php echo BASEURL;?>logout.php">Realizar Logout</a>
-									</div>
+									<a class="nav-link nav-text" href="#" id="navbardrop"> <?php echo "Olá, ".$_SESSION['user']; ?> </a>
+									
 							 	</li>
 							 	<br>
 							</ul>
@@ -73,6 +71,11 @@
 									<li class="nav-item">
 										<a href="<?php echo BASEURL; ?>certificado/index.php" class="nav-link ">
 											Certificados
+										</a>
+									</li>
+									<li class="nav-item">
+										<a href="<?php echo BASEURL; ?>logout.php" class="nav-link text-danger">
+										<i class="fa fa-sign-out"></i> SAIR
 										</a>
 									</li>
 								</ul>
