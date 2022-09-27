@@ -52,7 +52,7 @@ CREATE TABLE IF NOT EXISTS `administrador` (
 --
 
 INSERT INTO `administrador` (`senha`, `fk_usuario`) VALUES
-('$2y$10$oibsDD2CWj1Rz5Era.JZVeuZFio0bWRc36x1rJU0RsiNjxDIZAXme', 1);
+('$2y$10$eNyMoAGdD9b6q/m1xmrj9OZ40Oc6Q4j8l1r.L5OynO0nksrwNoI0.', 1);
 
 -- --------------------------------------------------------
 
