@@ -120,8 +120,6 @@
 				$resultado['nivel'] = $valor;
 			}else if($key=="convidado"){
 				$resultado['convidado'] = $valor;
-			}else if($key=="res"){
-				$resultado['res'] = $valor;
 			}else{
 				if($key!="m8" && $key!="m9" ){
 					$soma += $valor;

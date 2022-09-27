@@ -364,16 +364,6 @@ window.onload=function(){
 					<option value="50"> REGULAR – Atende alguns requisitos parcialmente.</option>
 					<option value="30"> INSUFICIENTE – Não atende aos itens.</option>
 				</select>
-				<?php if($projetoAval['nivel']==2){				?>
-				<div class="form-control mb-2 col-md-5 text-center">
-					<label>
-					<input type="radio" id='n10' name="avaliacao['n10']" value="1" required > Projeto com Resultados em Desenvolvimento/Concluído
-				</label><br>
-				<label>
-					<input type="radio" id='n10' name="avaliacao['n10']" value="0" required > Projeto em Fase Inicial
-					<label>
-				</div>
-			<?php }			?>
 			</div>
 		</div>
 		<br/>

@@ -43,305 +43,10 @@
 
 	?>
 	</div>
-	<!-- Classificação para os trabalhos por area COM resultados.-->
-		<div class="row">
-			<div class="form-group col-md-12 bg-primary text-white text-center">
-				<label for="n1"> CIÊNCIAS BIOLÓGICAS E DA SAÚDE: </label>
-			</div>
-		</div>
-		<table class="table table-hover">
-				<thead>
-					<tr>
-						<th>Classificação</th>
-						<th width="30%">Titulo</th>
-						<th>Estudantes</th>
-						<th>Orientadores</th>
-						<th>Nota</th>
-						<th>Desempate</th>
-					</tr>
-				</thead>
-				<tbody>
-					<?php if ($resultado) { $cont=0;?>
-
-					<?php foreach ($resultado as $res) {
-							if($cont==10){
-								break;
-							}
-							if($res['fk_area'] == 1 && $res['nivel']==2 && $res['convidado']==0 && $res['res'] == 1){
-								$cont++;
-					?>
-					<tr>
-
-						<td><?php echo $cont."º"; if($cont<=3){echo " Premiado";} ?></td>
-						<td><?php echo $res['titulo']; ?></td>
-						<td>
-						<?php
-							allAutores($res['usuarios']);
-							echo ucwords(mb_strtolower($autores[1]['nome']."<br>".$autores[2]['nome']."<br>".$autores[3]['nome']));
-						?>
-						</td>
-						<td>
-						<?php
-							echo ucwords(mb_strtolower($autores[5]['nome']."<br>".$autores[4]['nome']));
-						?>
-						</td>
-						<td><?php echo number_format($res['nota'],5,',',''); ?></td>
-						<td>
-							<?php echo "1-Apresentação/Banner: ".number_format($res['banner'],2,',','')."<br>2-Resumo: ".number_format($res['resumo'],2,',','')."<br>3-Relatorio: ".number_format($res['relatorio'],2,',','')."<br>4-Diário: ".number_format($res['diario'],2,',',''); ?>
-						</td>
-					</tr>
-							<?php }} ?>
-					<?php } else { ?>
-					<tr>
-
-						<td colspan="6">Nenhum registro encontrado.</td>
-					</tr>
-				<?php }
-				if($cont == 0){ ?>
-					<td colspan="6" class="text-center">Nenhum projeto nessa categoria.</td>
-				<?php } ?>
-				</tbody>
-			</table>
-		<div class="row">
-			<div class="form-group col-md-12 bg-primary text-white text-center">
-				<label for="n1"> CIÊNCIAS EXATAS E DA TERRA: </label>
-			</div>
-		</div>
-		<table class="table table-hover">
-				<thead>
-					<tr>
-						<th>Classificação</th>
-						<th width="30%">Titulo</th>
-						<th>Estudantes</th>
-						<th>Orientadores</th>
-						<th>Nota</th>
-						<th>Desempate</th>
-					</tr>
-				</thead>
-				<tbody>
-					<?php if ($resultado) { $cont=0;?>
-
-					<?php foreach ($resultado as $res) {
-							if($cont==10){
-								break;
-							}
-							if($res['fk_area'] == 2 && $res['nivel']==2 && $res['convidado']==0 && $res['res'] == 1){
-								$cont++;
-					?>
-					<tr>
-
-						<td><?php echo $cont."º"; if($cont<=3){echo " Premiado";} ?></td>
-						<td><?php echo $res['titulo']; ?></td>
-						<td>
-						<?php
-							allAutores($res['usuarios']);
-							echo ucwords(mb_strtolower($autores[1]['nome']."<br>".$autores[2]['nome']."<br>".$autores[3]['nome']));
-						?>
-						</td>
-						<td>
-						<?php
-							echo ucwords(mb_strtolower($autores[5]['nome']."<br>".$autores[4]['nome']));
-						?>
-						</td>
-						<td><?php echo number_format($res['nota'],5,',',''); ?></td>
-						<td>
-							<?php echo "1-Apresentação/Banner: ".number_format($res['banner'],2,',','')."<br>2-Resumo: ".number_format($res['resumo'],2,',','')."<br>3-Relatorio: ".number_format($res['relatorio'],2,',','')."<br>4-Diário: ".number_format($res['diario'],2,',',''); ?>
-					</tr>
-					</tr>
-							<?php }} ?>
-					<?php } else { ?>
-					<tr>
-
-						<td colspan="6">Nenhum registro encontrado.</td>
-					</tr>
-				<?php }
-				if($cont == 0){ ?>
-					<td colspan="6" class="text-center">Nenhum projeto nessa categoria.</td>
-				<?php } ?>
-				</tbody>
-			</table>
-
-			<div class="row">
-			<div class="form-group col-md-12 bg-primary text-white text-center">
-				<label for="n1"> CIÊNCIAS HUMANAS, SOCIAIS APLICADAS E LINGUÍSTICA: </label>
-			</div>
-		</div>
-		<table class="table table-hover">
-				<thead>
-					<tr>
-						<th>Classificação</th>
-						<th width="30%">Titulo</th>
-						<th>Estudantes</th>
-						<th>Orientadores</th>
-						<th>Nota</th>
-						<th>Desempate</th>
-					</tr>
-				</thead>
-				<tbody>
-					<?php if ($resultado) { $cont=0;?>
-
-					<?php foreach ($resultado as $res) {
-							if($cont==10){
-								break;
-							}
-							if($res['fk_area'] == 3 && $res['nivel']==2 && $res['convidado']==0 && $res['res'] == 1){
-								$cont++;
-					?>
-					<tr>
-
-						<td><?php echo $cont."º"; if($cont<=3){echo " Premiado";}?></td>
-						<td><?php echo $res['titulo']; ?></td>
-						<td>
-						<?php
-							allAutores($res['usuarios']);
-							echo ucwords(mb_strtolower($autores[1]['nome']."<br>".$autores[2]['nome']."<br>".$autores[3]['nome']));
-						?>
-						</td>
-						<td>
-						<?php
-							echo ucwords(mb_strtolower($autores[5]['nome']."<br>".$autores[4]['nome']));
-						?>
-						</td>
-						<td><?php echo number_format($res['nota'],5,',',''); ?></td>
-						<td>
-							<?php echo "1-Apresentação/Banner: ".number_format($res['banner'],2,',','')."<br>2-Resumo: ".number_format($res['resumo'],2,',','')."<br>3-Relatorio: ".number_format($res['relatorio'],2,',','')."<br>4-Diário: ".number_format($res['diario'],2,',',''); ?>
-					</tr>
-					</tr>
-							<?php }} ?>
-					<?php } else { ?>
-					<tr>
-
-						<td colspan="6">Nenhum registro encontrado.</td>
-					</tr>
-				<?php }
-				if($cont == 0){ ?>
-					<td colspan="6" class="text-center">Nenhum projeto nessa categoria.</td>
-				<?php } ?>
-				</tbody>
-			</table>
-
-			<div class="row">
-			<div class="form-group col-md-12 bg-primary text-white text-center">
-				<label for="n1"> CIÊNCIAS AGRÁRIAS E ENGENHARIAS </label>
-			</div>
-		</div>
-		<table class="table table-hover">
-				<thead>
-					<tr>
-						<th>Classificação</th>
-						<th width="30%">Titulo</th>
-						<th>Estudantes</th>
-						<th>Orientadores</th>
-						<th>Nota</th>
-						<th>Desempate</th>
-					</tr>
-				</thead>
-				<tbody>
-					<?php if ($resultado) { $cont=0;?>
-
-					<?php foreach ($resultado as $res) {
-							if($cont==10){
-								break;
-							}
-							if($res['fk_area'] == 4 && $res['nivel']==2 && $res['convidado']==0 && $res['res'] == 1){
-								$cont++;
-					?>
-					<tr>
-
-						<td><?php echo $cont."º"; if($cont<=3){echo " Premiado";} ?></td>
-						<td><?php echo $res['titulo']; ?></td>
-						<td>
-						<?php
-							allAutores($res['usuarios']);
-							echo ucwords(mb_strtolower($autores[1]['nome']."<br>".$autores[2]['nome']."<br>".$autores[3]['nome']));
-						?>
-						</td>
-						<td>
-						<?php
-							echo ucwords(mb_strtolower($autores[5]['nome']."<br>".$autores[4]['nome']));
-						?>
-						</td>
-						<td><?php echo number_format($res['nota'],5,',',''); ?></td>
-						<td>
-								<?php echo "1-Apresentação/Banner: ".number_format($res['banner'],2,',','')."<br>2-Resumo: ".number_format($res['resumo'],2,',','')."<br>3-Relatorio: ".number_format($res['relatorio'],2,',','')."<br>4-Diário: ".number_format($res['diario'],2,',',''); ?>
-						</td>
-					</tr>
-							<?php }} ?>
-					<?php } else { ?>
-					<tr>
-
-						<td colspan="6">Nenhum registro encontrado.</td>
-					</tr>
-				<?php }
-				if($cont == 0){ ?>
-					<td colspan="6" class="text-center">Nenhum projeto nessa categoria.</td>
-				<?php } ?>
-				</tbody>
-			</table>
-
-			<div class="row">
-			<div class="form-group col-md-12 bg-primary text-white text-center">
-				<label for="n1"> MULTIDISCIPLINAR: </label>
-			</div>
-		</div>
-		<table class="table table-hover">
-				<thead>
-					<tr>
-						<th>Classificação</th>
-						<th width="30%">Titulo</th>
-						<th>Estudantes</th>
-						<th>Orientadores</th>
-						<th>Nota</th>
-						<th>Desempate</th>
-					</tr>
-				</thead>
-				<tbody>
-					<?php if ($resultado) { $cont=0;?>
-
-					<?php foreach ($resultado as $res) {
-							if($cont==10){
-								break;
-							}
-							if($res['fk_area'] == 5 && $res['nivel']==2 && $res['convidado']==0 && $res['res'] == 1){
-								$cont++;
-					?>
-					<tr>
-
-						<td><?php echo $cont."º"; if($cont<=3){echo " Premiado";} ?></td>
-						<td><?php echo $res['titulo']; ?></td>
-						<td>
-						<?php
-							allAutores($res['usuarios']);
-							echo ucwords(mb_strtolower($autores[1]['nome']."<br>".$autores[2]['nome']."<br>".$autores[3]['nome']));
-						?>
-						</td>
-						<td>
-						<?php
-							echo ucwords(mb_strtolower($autores[5]['nome']."<br>".$autores[4]['nome']));
-						?>
-						</td>
-						<td><?php echo number_format($res['nota'],5,',',''); ?></td>
-						<td>
-							<?php echo "1-Apresentação/Banner: ".number_format($res['banner'],2,',','')."<br>2-Resumo: ".number_format($res['resumo'],2,',','')."<br>3-Relatorio: ".number_format($res['relatorio'],2,',','')."<br>4-Diário: ".number_format($res['diario'],2,',',''); ?>
-						</td>
-					</tr>
-							<?php }} ?>
-					<?php } else { ?>
-					<tr>
-
-						<td colspan="6">Nenhum registro encontrado.</td>
-					</tr>
-				<?php }
-				if($cont == 0){ ?>
-					<td colspan="6" class="text-center">Nenhum projeto nessa categoria.</td>
-				<?php } ?>
-				</tbody>
-			</table>
-
 			<!-- Classificação para os trabalhos por area sem resultados.-->
 			<div class="row">
 				<div class="form-group col-md-12 bg-primary text-white text-center">
-					<label for="n1"> CIÊNCIAS BIOLÓGICAS E DA SAÚDE: (Sem resultados)</label>
+					<label for="n1"> CIÊNCIAS BIOLÓGICAS E DA SAÚDE:</label>
 				</div>
 			</div>
 			<table class="table table-hover">
@@ -362,7 +67,7 @@
 								if($cont==5){
 									break;
 								}
-								if($res['fk_area'] == 1 && $res['nivel']==2 && $res['convidado']==0 && $res['res'] == 0){
+								if($res['fk_area'] == 1 && $res['nivel']==2 && $res['convidado']==0){
 									$cont++;
 						?>
 						<tr>
@@ -399,7 +104,7 @@
 				</table>
 			<div class="row">
 				<div class="form-group col-md-12 bg-primary text-white text-center">
-					<label for="n1"> CIÊNCIAS EXATAS E DA TERRA: (Sem resultados)</label>
+					<label for="n1"> CIÊNCIAS EXATAS E DA TERRA:</label>
 				</div>
 			</div>
 			<table class="table table-hover">
@@ -420,7 +125,7 @@
 								if($cont==5){
 									break;
 								}
-								if($res['fk_area'] == 2 && $res['nivel']==2 && $res['convidado']==0 && $res['res'] == 0){
+								if($res['fk_area'] == 2 && $res['nivel']==2 && $res['convidado']==0){
 									$cont++;
 						?>
 						<tr>
@@ -458,7 +163,7 @@
 
 				<div class="row">
 				<div class="form-group col-md-12 bg-primary text-white text-center">
-					<label for="n1"> CIÊNCIAS HUMANAS, SOCIAIS APLICADAS E LINGUÍSTICA: (Sem resultados)</label>
+					<label for="n1"> CIÊNCIAS HUMANAS, SOCIAIS APLICADAS E LINGUÍSTICA:</label>
 				</div>
 			</div>
 			<table class="table table-hover">
@@ -479,7 +184,7 @@
 								if($cont==5){
 									break;
 								}
-								if($res['fk_area'] == 3 && $res['nivel']==2 && $res['convidado']==0 && $res['res'] == 0){
+								if($res['fk_area'] == 3 && $res['nivel']==2 && $res['convidado']==0){
 									$cont++;
 						?>
 						<tr>
@@ -517,7 +222,7 @@
 
 				<div class="row">
 				<div class="form-group col-md-12 bg-primary text-white text-center">
-					<label for="n1"> CIÊNCIAS AGRÁRIAS E ENGENHARIAS (Sem resultados)</label>
+					<label for="n1"> CIÊNCIAS AGRÁRIAS E ENGENHARIAS</label>
 				</div>
 			</div>
 			<table class="table table-hover">
@@ -538,7 +243,7 @@
 								if($cont==5){
 									break;
 								}
-								if($res['fk_area'] == 4 && $res['nivel']==2 && $res['convidado']==0 && $res['res'] == 0){
+								if($res['fk_area'] == 4 && $res['nivel']==2 && $res['convidado']==0){
 									$cont++;
 						?>
 						<tr>
@@ -576,7 +281,7 @@
 
 				<div class="row">
 				<div class="form-group col-md-12 bg-primary text-white text-center">
-					<label for="n1"> MULTIDISCIPLINAR: (Sem resultados)</label>
+					<label for="n1"> MULTIDISCIPLINAR:</label>
 				</div>
 			</div>
 			<table class="table table-hover">
@@ -597,7 +302,7 @@
 								if($cont==5){
 									break;
 								}
-								if($res['fk_area'] == 5 && $res['nivel']==2 && $res['convidado']==0 && $res['res'] == 0){
+								if($res['fk_area'] == 5 && $res['nivel']==2 && $res['convidado']==0){
 									$cont++;
 						?>
 						<tr>
@@ -777,8 +482,6 @@
 							if($cont==5){
 								break;
 							}
-							if($res['res']==0)
-										continue;
 						/*	if($res['nivel']==1)
 								continue;
 							if($res['convidado']==1)
@@ -842,8 +545,6 @@
 							if($cont==5){
 								break;
 							}
-							if($res['res']==0)
-										continue;
 						/*	if($res['nivel']==1)
 								continue;
 							if($res['convidado']==1)
@@ -906,8 +607,6 @@
 							if($cont==5){
 								break;
 							}
-							if($res['res']==0)
-										continue;
 					/*		if($res['nivel']==1)
 								continue;
 							if($res['convidado']==1)
@@ -1033,8 +732,6 @@
 							if($res['nivel']==1){
 								continue;
 							}
-							if($res['res']==0)
-								continue;
 							$cont++;
 					?>
 					<tr>
