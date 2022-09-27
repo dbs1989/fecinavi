@@ -6,7 +6,7 @@
 		$senha = $_POST['senha'];
 		$tabela = null;
 		if($senha["'nova'"] == $senha["'confnova'"]){
-			if($_SESSION['tipo']==1){
+			if(isset($_SESSION['administrador'])){
 				$tabela = 'administrador';
 			}else{
 				$tabela = 'avaliador';

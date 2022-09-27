@@ -1,7 +1,7 @@
 
 					<hr>
 					<footer class="container h-100">
-						<img src="<?php echo BASEURL; ?>imagens/logoifmspp.png" width="26%" class="mx-auto d-block">
+						<img src="<?php echo BASEURL; ?>imagens/logoifmsnv.jpg" width="16%" class="mx-auto d-block">
 						<p class=" text-center" style="font-size: 11px"> Desenvolvido por: <br>Prof. Marlom Marsal Marques - IFMS Campus Ponta Porã <br>email: marlom.marques@ifms.edu.br</p>
 					</footer>
 					<?php include(ABSPATH.'modalLogin.php'); ?>

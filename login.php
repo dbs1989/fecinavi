@@ -8,8 +8,8 @@
 		if(!empty($usuario)){
 			$avaliador = findAnyThing('avaliador','fk_usuario',$usuario['id_usuario']);
 			if(!empty($avaliador)){
-				if(password_verify($login["'senha'"],$administrador['senha'])){
-					$_SESSION['tipo']=2;
+				if(password_verify($login["'senha'"],$avaliador['senha'])){
+					$_SESSION['tipo']=1;
 					$_SESSION['user']=$usuario['nome'];
 					$_SESSION['id_user'] = $usuario['id_usuario'];
 					$_SESSION['type'] = "success";
@@ -26,6 +26,7 @@
 					$_SESSION['tipo']=1;
 					$_SESSION['user']=$usuario['nome'];
 					$_SESSION['id_user'] = $usuario['id_usuario'];
+					$_SESSION['administrador'] = 1;
 					$_SESSION['type'] = "success";
 				 $_SESSION['msgNome'] = "Login realizado";
 				}else{

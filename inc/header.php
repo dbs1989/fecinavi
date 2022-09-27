@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<meta charset="UTF-8">
-		<title>FECIFRON</title>
+		<title>FECINAVI</title>
 		<meta name="description" content="">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
   		<script src='https://kit.fontawesome.com/a076d05399.js'></script>
@@ -20,7 +20,7 @@
 				
 					}
 					if(!empty($_SESSION['tipo'])){
-						if($_SESSION['tipo'] == 1){
+						if(isset($_SESSION['administrador'] )){
 				?>
 
 					<aside class="col-12 col-md-2 p-0 bg-dark">
@@ -90,6 +90,6 @@
 		        <main class="col h-100">
 		        	<br>
 		        	<div class="container-fluid">
-						<a href="<?php echo BASEURL ?>index.php"><img src="<?php echo BASEURL; ?>imagens/fecifron2021.png" width="75%" class="mx-auto d-block"></a>
+						<a href="<?php echo BASEURL ?>index.php"><img width="70%" height="500px" src="<?php echo BASEURL; ?>imagens/facinavi2022.jpeg" class="mx-auto d-block"></a>
 					</div>
 					<hr>

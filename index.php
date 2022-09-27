@@ -193,7 +193,7 @@
 	</div>
 	<div class="container jumbotron text-center font-weight-bold">
 
-	    A avaliação chegou ao fim e agradecemos imensamente a sua participação no processo de avaliação da FECIFRON 2021.
+	    A avaliação chegou ao fim e agradecemos imensamente a sua participação no processo de avaliação da FECINAVI 2022.
 
 	</div>
 

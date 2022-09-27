@@ -19,7 +19,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Banco de dados: `fecifron`
+-- Banco de dados: `fecinavi`
 --
 
 -- --------------------------------------------------------
@@ -211,7 +211,7 @@ CREATE TABLE IF NOT EXISTS `usuario` (
 --
 
 INSERT INTO `usuario` (`id_usuario`, `nome`, `email`, `fk_instituicao`) VALUES
-(1, 'administrador', 'admin', 1),
+(1, 'administrador', 'admin', 1);
 
 --
 -- Restrições para despejos de tabelas
