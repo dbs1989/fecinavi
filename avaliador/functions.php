@@ -66,6 +66,7 @@
 	function excluir(){
 			if(!empty($_GET['excluir'])){
 				remove('avaliacao','id_avaliacao',$_GET['excluir']);
+				decrementaAvaliacao($_GET['id_projeto']);
 				header('location: excluirAval.php?id='.$_GET['id']);	exit;
 			}
 	}

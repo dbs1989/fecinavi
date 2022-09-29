@@ -146,7 +146,7 @@ function avaliadorProjetos($id){
 	$database = open_database();
 	$found = null;
 	try {
-		$sql = "select p.titulo, a.id_avaliacao from projeto as p join avaliacao as a on a.fk_projeto = p.id_projeto WHERE a.fk_usuario = ".$id." ORDER BY p.titulo";
+		$sql = "select p.titulo, a.id_avaliacao, p.id_projeto from projeto as p join avaliacao as a on a.fk_projeto = p.id_projeto WHERE a.fk_usuario = ".$id." ORDER BY p.titulo";
 		$result = $database->query($sql);
 		if ($result->num_rows > 0) {
 			$found = $result->fetch_all(MYSQLI_ASSOC);
@@ -380,6 +380,19 @@ function addAvaliacao($id){
 	$database = open_database();
 	try {
 		$sql = "UPDATE projeto SET num_aval = num_aval+1 WHERE id_projeto = " . $id;
+		$database->query($sql);
+	}catch (Exception $e) {
+		$_SESSION['message'] = $e->GetMessage();
+		$_SESSION['type'] = 'danger';
+	}
+	close_database($database);
+}
+
+//adiciona uma avaliação
+function decrementaAvaliacao($id){
+	$database = open_database();
+	try {
+		$sql = "UPDATE projeto SET num_aval = num_aval-1 WHERE id_projeto = " . $id;
 		$database->query($sql);
 	}catch (Exception $e) {
 		$_SESSION['message'] = $e->GetMessage();

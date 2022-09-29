@@ -20,7 +20,7 @@
 				<tr>
 					<td><?php echo $projeto['titulo']; ?></td>
 					<td class="actions text-center">
-						<a href="excluirAval.php?id=<?php echo $avaliador['id_usuario']?>&excluir=<?php echo $projeto['id_avaliacao']; ?>" class="btn btn-sm btn-danger"><i class="fa fa-close"></i> Excluir Avaliação</a>
+						<a href="excluirAval.php?id=<?php echo $avaliador['id_usuario']?>&excluir=<?php echo $projeto['id_avaliacao']; ?>&id_projeto=<?php echo $projeto['id_projeto']; ?>" class="btn btn-sm btn-danger"><i class="fa fa-close"></i> Excluir Avaliação</a>
 		  	</td>
 				</tr>
 				<?php endforeach; ?>
