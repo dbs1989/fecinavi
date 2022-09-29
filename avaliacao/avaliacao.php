@@ -273,7 +273,7 @@ window.onload=function(){
 					<option value="0"> INEXISTENTE</option>
 				</select>
 
-					<label for="n6" class="col-md-5 pt-1 text-white" style="background: DimGrey" >
+					<!-- <label for="n6" class="col-md-5 pt-1 text-white" style="background: DimGrey" >
 						<details>
 							<summary>Relatório do trabalho:</summary>
 								<div class="container-fluid" style="background: DimGrey">
@@ -292,7 +292,7 @@ window.onload=function(){
 						<option value="50"> REGULAR – Atende alguns requisitos parcialmente.</option>
 						<option value="30"> INSUFICIENTE – Não atende aos itens.</option>
 						<option value="0"> INEXISTENTE</option>
-					</select>
+					</select> -->
 
 				<label for="n7" class="col-md-5 pt-1 text-white" style="background: DimGrey">
 					<details>

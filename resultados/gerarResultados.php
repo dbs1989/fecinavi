@@ -70,25 +70,8 @@
         return $a['ambiental']< $b['ambiental'];
     }
 
-		function melhorTecnologico($a, $b){
-	 if($a['tecnologico']==$b['tecnologico']){
-		 if($a['banner']==$b['banner']){
-			 if($a['resumo']==$b['resumo']){
-				 if($a['relatorio']==$b['relatorio']){
-					 return $a['diario']<$b['diario'];
-				 }
-				 return $a['relatorio']<$b['relatorio'];
-			 }
-			 return $a['resumo']<$b['resumo'];
-		 }
-		 return $a['banner']<$b['banner'];
-	 }
-			 return $a['tecnologico']< $b['tecnologico'];
-	 }
-
-	 function melhorConvidado($a, $b){
-	if($a['convidado']==$b['convidado']){
-		if($a['nota']==$b['nota']){
+	function melhorTecnologico($a, $b){
+		if($a['tecnologico']==$b['tecnologico']){
 			if($a['banner']==$b['banner']){
 				if($a['resumo']==$b['resumo']){
 					if($a['relatorio']==$b['relatorio']){
@@ -100,10 +83,27 @@
 			}
 			return $a['banner']<$b['banner'];
 		}
-        return $a['nota']< $b['nota'];
+		return $a['tecnologico']< $b['tecnologico'];
 	}
-	return $a['convidado']<$b['convidado'];
-}
+
+	function melhorConvidado($a, $b){
+		if($a['convidado']==$b['convidado']){
+			if($a['nota']==$b['nota']){
+				if($a['banner']==$b['banner']){
+					if($a['resumo']==$b['resumo']){
+						if($a['relatorio']==$b['relatorio']){
+							return $a['diario']<$b['diario'];
+						}
+						return $a['relatorio']<$b['relatorio'];
+					}
+					return $a['resumo']<$b['resumo'];
+				}
+				return $a['banner']<$b['banner'];
+			}
+			return $a['nota']< $b['nota'];
+		}
+		return $a['convidado']<$b['convidado'];
+	}
 
 	foreach($resultadoTodos as $res){
 		$soma = 0;
@@ -121,9 +121,7 @@
 			}else if($key=="convidado"){
 				$resultado['convidado'] = $valor;
 			}else{
-				if($key!="m8" && $key!="m9" ){
-					$soma += $valor;
-				}
+				
 				if($key=="m4"){
 					$banner += $valor;
 				}
@@ -142,9 +140,20 @@
 				if($key=="m9"){
 					$resultado['tecnologico'] = $valor;
 				}
+				if($key!="m6" && $key!="m9" ){
+					//pesos para cada critério de avaliação
+					($key == "m1")? $valor = $valor*2:$valor;
+					($key == "m2")? $valor = $valor*2:$valor;
+					($key == "m3")? $valor = $valor*1:$valor;
+					($key == "m4")? $valor = $valor*2.5:$valor;
+					($key == "m5")? $valor = $valor*0.5:$valor;
+					($key == "m7")? $valor = $valor*1:$valor;
+					($key == "m8")? $valor = $valor*1:$valor;
+					$soma += $valor;
+				}
 			}
 		}
-		$resultado['nota'] = $soma/7;
+		$resultado['nota'] = $soma/10;
 		$resultado['relatorio'] = $relatorio;
 		$resultado['resumo'] = $resumo;
 		$resultado['banner'] = $banner;
