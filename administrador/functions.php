@@ -19,6 +19,7 @@
 	function add() {
 		if (!empty($_POST['administrador'])) {
 			$administrador = $_POST['administrador'];
+			$administrador["'senha'"] = password_hash('mudar123', PASSWORD_DEFAULT);
 			$administrador["'fk_usuario'"] = pegarID($administrador["'fk_usuario'"]);
 			save('administrador', $administrador);
 			header('location: index.php');exit;
