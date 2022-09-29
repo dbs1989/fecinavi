@@ -26,7 +26,7 @@
 					<aside class="col-12 col-md-2 p-0 bg-dark">
 		            	<nav class="navbar navbar-expand-xl navbar-dark bg-dark flex-md-column flex-row align-items-start sticky-top">
 							<ul class="flex-md-column navbar-nav justify-content-between">
-								<a class="navbar-brand" href="<?php echo BASEURL; ?>"><i class='fas fa-home' style='font-size:36px'></i></a>
+								<a class="navbar-brand" href="<?php echo BASEURL; ?>"><i class='fa fa-home' style='font-size:36px'></i></a>
 								<li class="nav-item dropdown">
 									<a class="nav-link nav-text" href="#" id="navbardrop"> <?php echo "Olá, ".$_SESSION['user']; ?> </a>
 									
